@@ -19,7 +19,7 @@ avatar: /assets/profile/cat-profile.png
 # and URL Link(e.g. 'Theme' tab below) tabs. If you don't need one, just delete
 # it from the list(Delete '- name: ' and 'url: ', too!)
 navigation:
-  - name: Blog
+  - name: Log
     url: /
   - name: About
     url: /about
@@ -27,8 +27,8 @@ navigation:
     url: /archive
   - name: Tags
     url: /tags
-  - name: Images
-    url: /images
+  - name: Guides
+    url: /guides
 #   - name: Theme
 #     url: https://github.com/AWEEKJ/kiko-now
 
@@ -42,7 +42,7 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: stellarway/PersonalProject
+  github: stellarway
   googleplus: # anything in your profile username that comes after plus.google.com/
   instagram: atilda_ko
   linkedin:
