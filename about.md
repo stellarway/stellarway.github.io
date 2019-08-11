@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+슬쩍 나를 엿볼 생각이라면 제대로 찾아왔군요
 
-### More Information
+### I'm interested in
 
-A place to include any other types of information that you'd like to include about yourself.
+글, 필름 카메라, 영상, NLP
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[goyu1026@gmail.com](mailto:goyu1026@gmail.com)
