@@ -30,11 +30,11 @@ navigation:
     url: /tags
   - name: Images
     url: /images
-  - name: Theme
-    url: https://github.com/AWEEKJ/kiko-now
+#   - name: Theme
+#     url: https://github.com/AWEEKJ/kiko-now
 
 # Pagination
-paginate: 5
+paginate: 10
 
 # Includes an icon in the footer for each username you enter
 footer-links:
