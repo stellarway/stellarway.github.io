@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: Atilda's Dev Log
+name: dev-log
 
 # Short bio or description (displayed in the header)
-description: study Log
+description: Atilda's development log
 
 #
 # Flags below are optional
@@ -41,19 +41,19 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: AWEEKJ/kiko-now
+  github: stellarway/PersonalProject
   googleplus: # anything in your profile username that comes after plus.google.com/
-  instagram:
+  instagram: atilda_ko
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   tumblr: # https://<username>.tumblr.com
-  twitter: jekyllrb
+  twitter: 
   youtube: # channel/<your_long_string> or user/<user-name>
 
 # Text under the icons in footer
-footer-text: © 2017 Kiko Now
+footer-text: © 2019 Atilda Ko
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
