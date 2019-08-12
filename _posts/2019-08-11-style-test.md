@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A Full and Comprehensive Style Test"
-tags: [quide, style]
+tags: [sample post, quide, style]
 comments: true
 ---
 
