@@ -4,8 +4,6 @@ title: "NLP 학습을 위한 기본적인 환경 구축 (Python 설치부터)"
 tags: [setting]
 comments: true
 ---
-#### 개요
----
  - Python 3.7 설치
  - Jupyter Lab 설치
  - Github 가입
@@ -40,6 +38,6 @@ comments: true
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4Nzc3MzM3OCwxNDEyMzU5OTYyLC0yNz
-YzNTgwNjFdfQ==
+eyJoaXN0b3J5IjpbLTE1MjUzNDg3MjMsMTQxMjM1OTk2MiwtMj
+c2MzU4MDYxXX0=
 -->
