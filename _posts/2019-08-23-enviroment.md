@@ -9,6 +9,7 @@ comments: true
  - Jupyter Lab 설치
  - Github 가입
  - Git Kraken 설치
+
 # Python 3.7x Window 설치
 
 많은 사람들이 (실제로 배움의 현장에서도) 파이썬을 시작하기 위해서 아나콘다부터 깔고 시작한다. 아나콘다는 **가상환경 변환이 쉽다**는 점과, **패키지 관리가 쉽다**는 점 때문에 많이 사용된다. 
@@ -34,6 +35,6 @@ comments: true
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1MjEwNjM1LDc0NjY4NzM5OCwxNDEyMz
-U5OTYyLC0yNzYzNTgwNjFdfQ==
+eyJoaXN0b3J5IjpbLTI4Njk5ODI3OSwxMjUyMTA2MzUsNzQ2Nj
+g3Mzk4LDE0MTIzNTk5NjIsLTI3NjM1ODA2MV19
 -->
