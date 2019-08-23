@@ -5,10 +5,11 @@ tags: [setting]
 comments: true
 ---
 # Python 3.7x Window 설치
-### 아나콘다를 사용하지 않는 이유
+#### 나는 Anaconda를 사용하지 않기로 결정했다.
 >많은 사람들이 (실제로 배움의 현장에서도) 파이썬을 시작하기 위해서 무조건 아나콘다부터 깔고 시작한다. 아나콘다는 **가상환경 변환이 쉽다**는 점과, **패키지 관리가 쉽다**는 점 때문에 많이 사용된다.
 
-> 하지만 실제로 NLP를 학습해보면 아나콘다에 없는 패키지를 `pip install`을 이용하여 깔아야 할 일이 많다. 즉, 어차피 아나콘다를 거치지 않는 것이다. 이에 무거운 (용량이 큰) 아나콘다를 굳이 유지할 필요가 없어졌다. 이에 python을 **직접** 설치하고자 한다.
+> 하지만 실제로 NLP를 학습해보면 아나콘다에 없는 패키지를 `pip install`을 이용하여 깔아야 할 일이 많다. 즉, **어차피 아나콘다를 거치지 않는 것**이다. 사용하지 않는다면 용량도 큰 아나콘다를 굳이 유지
+>
 ## Python 설치
 ## 가상환경 사용
 # jupyter lab 설치
@@ -27,6 +28,6 @@ comments: true
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5OTY2NTQ0NiwxNDEyMzU5OTYyLC0yNz
+eyJoaXN0b3J5IjpbMTYxMDIwMDA3OSwxNDEyMzU5OTYyLC0yNz
 YzNTgwNjFdfQ==
 -->
