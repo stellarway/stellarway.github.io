@@ -32,12 +32,7 @@ comments: true
 
 
 
-1. 파이썬 설치 시 고려한 것  
-- 아나콘다 설치 여부  
-- 버젼 (텐서플로우 등 사용 시), 참고 사이트
-
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjUzNDg3MjMsMTQxMjM1OTk2MiwtMj
-c2MzU4MDYxXX0=
+eyJoaXN0b3J5IjpbLTczODQzMjYyNCwxNDEyMzU5OTYyLC0yNz
+YzNTgwNjFdfQ==
 -->
