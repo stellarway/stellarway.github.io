@@ -4,11 +4,12 @@ title: "NLP 학습을 위한 기본적인 환경 구축 (Python 설치부터)"
 tags: [setting]
 comments: true
 ---
-# Python 3.7  Window 설치
+# Python 3.7 Window 설치
+## 
 # jupyter lab 설치
 # Github 가입
 # GitKraken 설치
-# 
+
 
 
 1. 파이썬 설치 시 고려한 것  
@@ -17,5 +18,5 @@ comments: true
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3NjM1ODA2MV19
+eyJoaXN0b3J5IjpbLTU2NDI0NzY1OCwtMjc2MzU4MDYxXX0=
 -->
