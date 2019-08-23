@@ -5,11 +5,15 @@ tags: [setting]
 comments: true
 ---
 # Python 3.7x Window 설치
-> 아나콘다를 사용하지 않는 이유
+### 아나콘다를 사용하지 않는 이유
+>많은 사람들이 아니
 ## Python 설치
 ## 가상환경 사용
 # jupyter lab 설치
-> jupyter lab
+> jupyter Notebook이 아닌 jupyter lab을 사용하는 이유
+## jupyter lab 설치
+## jupyter lab 바로가기 만들기
+
 # Github 가입
 # GitKraken 설치
 
@@ -21,5 +25,6 @@ comments: true
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxMjM1OTk2MiwtMjc2MzU4MDYxXX0=
+eyJoaXN0b3J5IjpbMTM3ODQwMDA2NCwxNDEyMzU5OTYyLC0yNz
+YzNTgwNjFdfQ==
 -->
