@@ -11,7 +11,7 @@ comments: true
 > 하지만 실제로 NLP를 학습해보면 아나콘다에 없는 패키지를 `pip`~(파이썬 관련 패키지 설치 툴)~을 이용하여 깔아야 할 일이 많다. 즉, **어차피 아나콘다를 거치지 않는 것**이다. 사용하지 않는다면 용량도 큰 아나콘다를 굳이 유지할 필요가 없다.
 
 ## Python 설치
-[다운로드](https://www.python.org/downloads/windows/)
+파이썬 홈페이지에서 [Downloads-Windows](https://www.python.org/downloads/windows/)로 들어가 최신 Rel
 
 ## 가상환경 사용
 
@@ -31,6 +31,6 @@ comments: true
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ0ODYyMjA1LDE0MTIzNTk5NjIsLTI3Nj
-M1ODA2MV19
+eyJoaXN0b3J5IjpbLTE4NTM2MjkyMywxNDEyMzU5OTYyLC0yNz
+YzNTgwNjFdfQ==
 -->
