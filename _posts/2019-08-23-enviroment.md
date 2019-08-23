@@ -4,6 +4,11 @@ title: "NLP 학습을 위한 기본적인 환경 구축 (Python 설치부터)"
 tags: [setting]
 comments: true
 ---
+>
+
+ - List item
+
+Python 3.7
 # Python 3.7x Window 설치
 #### 나는 Anaconda를 사용하지 않기로 결정했다.
 >많은 사람들이 (실제로 배움의 현장에서도) 파이썬을 시작하기 위해서 무조건 아나콘다부터 깔고 시작한다. 아나콘다는 **가상환경 변환이 쉽다**는 점과, **패키지 관리가 쉽다**는 점 때문에 많이 사용된다.
@@ -16,7 +21,8 @@ comments: true
 ~(혹시 나와 같은 환경을 구축하려는 사람이 있다면 위의 '다운로드' 버튼만 누르면 된다)~
 
 ## 가상환경 사용
-[https://yongbeomkim.github.io/python/python-settings/](https://yongbeomkim.github.io/python/python-settings/)
+가상환경 구축에는 [이 분의 블로그](https://yongbeomkim.github.io/python/python-settings/)를 많이 참고했다.
+
 # jupyter lab 설치
 > jupyter Notebook이 아닌 jupyter lab을 사용하는 이유
 ## jupyter lab 설치
@@ -33,6 +39,6 @@ comments: true
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTQzODQ3MTYsMTQxMjM1OTk2MiwtMj
-c2MzU4MDYxXX0=
+eyJoaXN0b3J5IjpbMTc1OTgzMjcxNSwxNDEyMzU5OTYyLC0yNz
+YzNTgwNjFdfQ==
 -->
