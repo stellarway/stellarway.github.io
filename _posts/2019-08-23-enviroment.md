@@ -61,10 +61,10 @@ C:\Python\Venv\NLP\Scripts>activate
 jupyter lab은 jupyter notebook을 기반으로 만들어진 것이어서 기본적인 jupyter notebook의 특성을 따른다.
 많은 사람들은 jupyter notebook을 선택함에 비해 내가 jupyter lab을 기본 환경으로 설정하려는 이유는 다음과 같은 장점이 있기 때문이다.
 
-> 1. 브라우징이 간편하다
+> 1. 파일 브라우징이 간편하다 (폴더트리가 바로 왼쪽에 떠있어서 여러 코드를 참고하기에 간편하다)
 > 2. jupyter lab을 실행할 경우 마지막에 열었던 파일이 바로 실행된다.
 
-1에 관해서는, jupyter notebook과 달리 폴더트리가 바로 왼쪽에 떠있기 때문에 여러 코드를 참고할 간편하다. 많은 사람들이 jupyter notebook 을 사용하고 있지만 나는 위와 같은 이유 때문에 jupyter lab을 사용하고자 한다. jupyter lab을 설치하는 것은 간단하다. 설치하고자 하는 가상환경으로 들어가 `pip install jupyterlab`을 타이핑해주면 된다.
+  jupyter lab을 설치하는 것은 간단하다. 설치하고자 하는 가상환경으로 들어가 `pip install jupyterlab`을 타이핑해주면 된다.
 ```
 (NLP) C:\Python\Venv\NLP\Scripts> pip install jupyterlab
 ```
@@ -79,11 +79,11 @@ jupyter lab은 jupyter notebook을 기반으로 만들어진 것이어서 기본
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzYwNjE1NDEsLTUyNjA2NTI2OCwtMT
-AwNzMxMDI2NSwtMTU3NDgyMjEzNCw0NjY1MjMxNzcsLTE2Mzk2
-NjM1NDksLTEzMzgyOTM4MiwtMjQ0NzQ4MjYsLTUxNDUyODcyOC
-wxNjMwMTk4MTM4LDE4MDIyMzMzODMsLTIwNTA5Mzk2MDEsMTA0
-MjczMjM4Myw1NTkxMDM1MDksNzg0NTUxMDY3LC0xMzg5ODIzMD
-k1LDk1NzU3NjExMSwtMjg2OTk4Mjc5LDEyNTIxMDYzNSw3NDY2
-ODczOThdfQ==
+eyJoaXN0b3J5IjpbMzQ3NjE2OTIyLC01MjYwNjUyNjgsLTEwMD
+czMTAyNjUsLTE1NzQ4MjIxMzQsNDY2NTIzMTc3LC0xNjM5NjYz
+NTQ5LC0xMzM4MjkzODIsLTI0NDc0ODI2LC01MTQ1Mjg3MjgsMT
+YzMDE5ODEzOCwxODAyMjMzMzgzLC0yMDUwOTM5NjAxLDEwNDI3
+MzIzODMsNTU5MTAzNTA5LDc4NDU1MTA2NywtMTM4OTgyMzA5NS
+w5NTc1NzYxMTEsLTI4Njk5ODI3OSwxMjUyMTA2MzUsNzQ2Njg3
+Mzk4XX0=
 -->
