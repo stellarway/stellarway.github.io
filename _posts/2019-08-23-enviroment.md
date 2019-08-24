@@ -28,6 +28,8 @@ comments: true
 
 
 
+
+
 ## 가상환경 사용
 가상환경 구축에는 [이 분의 블로그](https://yongbeomkim.github.io/python/python-settings/)를 많이 참고했다.
 
@@ -42,9 +44,10 @@ comments: true
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzgyOTM4MiwtMjQ0NzQ4MjYsLTUxND
-UyODcyOCwxNjMwMTk4MTM4LDE4MDIyMzMzODMsLTIwNTA5Mzk2
-MDEsMTA0MjczMjM4Myw1NTkxMDM1MDksNzg0NTUxMDY3LC0xMz
-g5ODIzMDk1LDk1NzU3NjExMSwtMjg2OTk4Mjc5LDEyNTIxMDYz
-NSw3NDY2ODczOTgsMTQxMjM1OTk2MiwtMjc2MzU4MDYxXX0=
+eyJoaXN0b3J5IjpbLTE1NjE2MjAxOTQsLTEzMzgyOTM4MiwtMj
+Q0NzQ4MjYsLTUxNDUyODcyOCwxNjMwMTk4MTM4LDE4MDIyMzMz
+ODMsLTIwNTA5Mzk2MDEsMTA0MjczMjM4Myw1NTkxMDM1MDksNz
+g0NTUxMDY3LC0xMzg5ODIzMDk1LDk1NzU3NjExMSwtMjg2OTk4
+Mjc5LDEyNTIxMDYzNSw3NDY2ODczOTgsMTQxMjM1OTk2MiwtMj
+c2MzU4MDYxXX0=
 -->
