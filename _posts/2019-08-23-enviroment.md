@@ -87,7 +87,9 @@ jupyter lab
 ~~(여담이지만 학원 등에서 배우며 만들었던 파일을 Playground, 개인적으로 따로 작업한 파일은 HomeGround에 저장을 해왔기 때문에 폴더 이름을 'Ground'로 정했다)~~
 개인마다 마음에 드는 이름을 'Ground' 부분에 넣으면 된다.
 
-이제 바로가기를 만들어보자
+이제 바로가기를 만들어보자  
+
+
 
 
 # Github 가입
@@ -96,11 +98,11 @@ jupyter lab
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg0NTc0NDAxLDM5OTYzMDEyNSw2MzE4MD
-Q0NjgsLTUyNjA2NTI2OCwtMTAwNzMxMDI2NSwtMTU3NDgyMjEz
-NCw0NjY1MjMxNzcsLTE2Mzk2NjM1NDksLTEzMzgyOTM4MiwtMj
-Q0NzQ4MjYsLTUxNDUyODcyOCwxNjMwMTk4MTM4LDE4MDIyMzMz
-ODMsLTIwNTA5Mzk2MDEsMTA0MjczMjM4Myw1NTkxMDM1MDksNz
-g0NTUxMDY3LC0xMzg5ODIzMDk1LDk1NzU3NjExMSwtMjg2OTk4
-Mjc5XX0=
+eyJoaXN0b3J5IjpbLTE1Mjc5OTI3OTUsMzk5NjMwMTI1LDYzMT
+gwNDQ2OCwtNTI2MDY1MjY4LC0xMDA3MzEwMjY1LC0xNTc0ODIy
+MTM0LDQ2NjUyMzE3NywtMTYzOTY2MzU0OSwtMTMzODI5MzgyLC
+0yNDQ3NDgyNiwtNTE0NTI4NzI4LDE2MzAxOTgxMzgsMTgwMjIz
+MzM4MywtMjA1MDkzOTYwMSwxMDQyNzMyMzgzLDU1OTEwMzUwOS
+w3ODQ1NTEwNjcsLTEzODk4MjMwOTUsOTU3NTc2MTExLC0yODY5
+OTgyNzldfQ==
 -->
