@@ -70,7 +70,11 @@ jupyter lab은 jupyter notebook을 기반으로 만들어진 것이어서 기본
 ```
 
 ## jupyter lab 바로가기 만들기
-한편, 아나콘다 없이 바로 jupyter lab을 설치하면 
+한편, 아나콘다 없이 바로 jupyter lab을 설치하면 바로 접근하기가 불편한다.  
+간단한 작업으로 jupyter lab을 바로 실행할 수 있다.  
+먼저 다음과 같은 폴더 경로로 접근한다.
+
+
 
 # Github 가입
 # GitKraken 설치
@@ -78,11 +82,11 @@ jupyter lab은 jupyter notebook을 기반으로 만들어진 것이어서 기본
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjMxODA0NDY4LC01MjYwNjUyNjgsLTEwMD
-czMTAyNjUsLTE1NzQ4MjIxMzQsNDY2NTIzMTc3LC0xNjM5NjYz
-NTQ5LC0xMzM4MjkzODIsLTI0NDc0ODI2LC01MTQ1Mjg3MjgsMT
-YzMDE5ODEzOCwxODAyMjMzMzgzLC0yMDUwOTM5NjAxLDEwNDI3
-MzIzODMsNTU5MTAzNTA5LDc4NDU1MTA2NywtMTM4OTgyMzA5NS
-w5NTc1NzYxMTEsLTI4Njk5ODI3OSwxMjUyMTA2MzUsNzQ2Njg3
-Mzk4XX0=
+eyJoaXN0b3J5IjpbLTE2MjcwMjE0NzMsNjMxODA0NDY4LC01Mj
+YwNjUyNjgsLTEwMDczMTAyNjUsLTE1NzQ4MjIxMzQsNDY2NTIz
+MTc3LC0xNjM5NjYzNTQ5LC0xMzM4MjkzODIsLTI0NDc0ODI2LC
+01MTQ1Mjg3MjgsMTYzMDE5ODEzOCwxODAyMjMzMzgzLC0yMDUw
+OTM5NjAxLDEwNDI3MzIzODMsNTU5MTAzNTA5LDc4NDU1MTA2Ny
+wtMTM4OTgyMzA5NSw5NTc1NzYxMTEsLTI4Njk5ODI3OSwxMjUy
+MTA2MzVdfQ==
 -->
