@@ -107,21 +107,23 @@ jupyter lab에는 치명적인 단점이 있다.  jupyter notebook에 비해 테
 
 # GitKraken 
 처음에 배웠을 때는 Source Tree를 사용했으나, 다른 분이 git kraken을 사용하는 것을 보고 바로 갈아탔다.  
-소스트리에 비해 장점이 명확하다.
+소스트리에 비해 장점이 명확하기 때문이다.
 > 1. 인터페이스가 간편하고 미학적이다. (이것은 매우 중요하다)
 > 2. 빠르다. (이것은 1번 다음으로 제일 중요하다)
-[https://www.gitkraken.com/download/windows64](https://www.gitkraken.com/download/windows64)
+> 3. 커밋하지 않은 변경사항이 있을 경우 그것을 굉장히 직관적으로 나타내준다.
+
+Git Kraken은 무료로 [https://www.gitkraken.com/download/windows64](https://www.gitkraken.com/download/windows64)
 
 
 # Stackedit 사용
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4Nzk2NzMwNSwtMTk4NDEwNjczMSwxNz
-UwODA3MjczLDIwMDE5NzgxODQsLTE1Mjc5OTI3OTUsMzk5NjMw
-MTI1LDYzMTgwNDQ2OCwtNTI2MDY1MjY4LC0xMDA3MzEwMjY1LC
-0xNTc0ODIyMTM0LDQ2NjUyMzE3NywtMTYzOTY2MzU0OSwtMTMz
-ODI5MzgyLC0yNDQ3NDgyNiwtNTE0NTI4NzI4LDE2MzAxOTgxMz
-gsMTgwMjIzMzM4MywtMjA1MDkzOTYwMSwxMDQyNzMyMzgzLDU1
-OTEwMzUwOV19
+eyJoaXN0b3J5IjpbMjMyMDQzMDY1LC0xOTg0MTA2NzMxLDE3NT
+A4MDcyNzMsMjAwMTk3ODE4NCwtMTUyNzk5Mjc5NSwzOTk2MzAx
+MjUsNjMxODA0NDY4LC01MjYwNjUyNjgsLTEwMDczMTAyNjUsLT
+E1NzQ4MjIxMzQsNDY2NTIzMTc3LC0xNjM5NjYzNTQ5LC0xMzM4
+MjkzODIsLTI0NDc0ODI2LC01MTQ1Mjg3MjgsMTYzMDE5ODEzOC
+wxODAyMjMzMzgzLC0yMDUwOTM5NjAxLDEwNDI3MzIzODMsNTU5
+MTAzNTA5XX0=
 -->
