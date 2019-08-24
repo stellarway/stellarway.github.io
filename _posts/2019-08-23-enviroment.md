@@ -68,9 +68,9 @@ jupyter lab은 jupyter notebook을 기반으로 만들어진 것이어서 기본
 > 1. 브라우징이 간편하다
 > 2. jupyter lab을 실행할 경우 마지막에 열었던 파일이 바로 실행된다.
 
-1에 관해서는, jupyter notebook과 달리 폴더트리가 바로 왼쪽에 떠있기 때문에 여러 코드를 참고할 간편하다. 많은 사람들이 jupyter notebook 을 사용하고 있지만 나는 위와 같은 이유 때문에 jupyter lab을 사용하고자 한다. jupyter lab을 설치하는 것은 간단하다. 설치하고자 하는 가상환경으로 들어가 `pip install jupyter lab`을 타이핑해주면 된다.
+1에 관해서는, jupyter notebook과 달리 폴더트리가 바로 왼쪽에 떠있기 때문에 여러 코드를 참고할 간편하다. 많은 사람들이 jupyter notebook 을 사용하고 있지만 나는 위와 같은 이유 때문에 jupyter lab을 사용하고자 한다. jupyter lab을 설치하는 것은 간단하다. 설치하고자 하는 가상환경으로 들어가 `pip install jupyterlab`을 타이핑해주면 된다.
 ```
-(Tensorflow) C:\Python\Venv\Tensorflow\Scripts> pip install jupyterlab
+(NLP) C:\Python\Venv\NLP\Scripts> pip install jupyterlab
 ```
 
   
@@ -83,11 +83,11 @@ jupyter lab은 jupyter notebook을 기반으로 만들어진 것이어서 기본
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyODMxNDU1NSwtMTAwNzMxMDI2NSwtMT
-U3NDgyMjEzNCw0NjY1MjMxNzcsLTE2Mzk2NjM1NDksLTEzMzgy
-OTM4MiwtMjQ0NzQ4MjYsLTUxNDUyODcyOCwxNjMwMTk4MTM4LD
-E4MDIyMzMzODMsLTIwNTA5Mzk2MDEsMTA0MjczMjM4Myw1NTkx
-MDM1MDksNzg0NTUxMDY3LC0xMzg5ODIzMDk1LDk1NzU3NjExMS
-wtMjg2OTk4Mjc5LDEyNTIxMDYzNSw3NDY2ODczOTgsMTQxMjM1
-OTk2Ml19
+eyJoaXN0b3J5IjpbLTE0ODY4NDMzNzcsLTEwMDczMTAyNjUsLT
+E1NzQ4MjIxMzQsNDY2NTIzMTc3LC0xNjM5NjYzNTQ5LC0xMzM4
+MjkzODIsLTI0NDc0ODI2LC01MTQ1Mjg3MjgsMTYzMDE5ODEzOC
+wxODAyMjMzMzgzLC0yMDUwOTM5NjAxLDEwNDI3MzIzODMsNTU5
+MTAzNTA5LDc4NDU1MTA2NywtMTM4OTgyMzA5NSw5NTc1NzYxMT
+EsLTI4Njk5ODI3OSwxMjUyMTA2MzUsNzQ2Njg3Mzk4LDE0MTIz
+NTk5NjJdfQ==
 -->
