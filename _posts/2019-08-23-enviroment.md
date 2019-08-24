@@ -64,7 +64,9 @@ C:\Python\Venv\NLP\Scripts>activate
 jupyter lab은 jupyter notebook을 기반으로 만들어진 것이어서 기본적인 jupyter notebook의 특성을 따른다.
 많은 사람들은 jupyter notebook을 선택함에 비해 내가 jupyter lab을 기본 환경으로 설정하려는 이유는 다음과 같은 장점이 있기 때문이다.
 > 1. 브라우징이 간편하다
-> 2. jupyter lab이 
+> 2. jupyter lab을 실행할 경우 마지막에 열었던 파일이 바로 실행된다.
+
+많은 사람들ㅇ
   
 ## jupyter lab 설치
 ## jupyter lab 바로가기 만들기
@@ -75,11 +77,11 @@ jupyter lab은 jupyter notebook을 기반으로 만들어진 것이어서 기본
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzgxMzk1NTcsLTEwMDczMTAyNjUsLT
-E1NzQ4MjIxMzQsNDY2NTIzMTc3LC0xNjM5NjYzNTQ5LC0xMzM4
-MjkzODIsLTI0NDc0ODI2LC01MTQ1Mjg3MjgsMTYzMDE5ODEzOC
-wxODAyMjMzMzgzLC0yMDUwOTM5NjAxLDEwNDI3MzIzODMsNTU5
-MTAzNTA5LDc4NDU1MTA2NywtMTM4OTgyMzA5NSw5NTc1NzYxMT
-EsLTI4Njk5ODI3OSwxMjUyMTA2MzUsNzQ2Njg3Mzk4LDE0MTIz
-NTk5NjJdfQ==
+eyJoaXN0b3J5IjpbMTM5NzQzMzIxMiwtMTAwNzMxMDI2NSwtMT
+U3NDgyMjEzNCw0NjY1MjMxNzcsLTE2Mzk2NjM1NDksLTEzMzgy
+OTM4MiwtMjQ0NzQ4MjYsLTUxNDUyODcyOCwxNjMwMTk4MTM4LD
+E4MDIyMzMzODMsLTIwNTA5Mzk2MDEsMTA0MjczMjM4Myw1NTkx
+MDM1MDksNzg0NTUxMDY3LC0xMzg5ODIzMDk1LDk1NzU3NjExMS
+wtMjg2OTk4Mjc5LDEyNTIxMDYzNSw3NDY2ODczOTgsMTQxMjM1
+OTk2Ml19
 -->
