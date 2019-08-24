@@ -27,6 +27,7 @@ comments: true
 나는 아래와 같이 설치했다.
 
 ![enter image description here](https://lh3.googleusercontent.com/PgRDGhpKTUoRdSAAMEYqgP2ltNYiYyKpB1rVR52oNP_oyGidQU9O54OzExGn5mISvr9Z-kE6erfW "intall python1")
+위에서 빨간 체크박스를(Add Python 3.7 to PATH 선택해주는 것이 나중에 정신 건강에 이롭다.
 
 ![enter image description here](https://lh3.googleusercontent.com/X6YwCISOqwbnwFMn5qLAeJUVou1xviJjdHYiBGRbKcz0aqgwK5EsZQY2PsPlF3OstW6LsgXRlSy7 "intall python2")
 ![enter image description here](https://lh3.googleusercontent.com/_GYsx1cCR-_HFYwAzjxJmnS79ZVw0bEBFimG0pk5IBuICy6mqQT9J0l9ADZL_8j-7EKp3ThG7Szx "intall python3")
@@ -45,10 +46,10 @@ comments: true
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyNTY3NTc1MywtMTMzODI5MzgyLC0yND
-Q3NDgyNiwtNTE0NTI4NzI4LDE2MzAxOTgxMzgsMTgwMjIzMzM4
-MywtMjA1MDkzOTYwMSwxMDQyNzMyMzgzLDU1OTEwMzUwOSw3OD
-Q1NTEwNjcsLTEzODk4MjMwOTUsOTU3NTc2MTExLC0yODY5OTgy
-NzksMTI1MjEwNjM1LDc0NjY4NzM5OCwxNDEyMzU5OTYyLC0yNz
-YzNTgwNjFdfQ==
+eyJoaXN0b3J5IjpbLTE2Mzk2NjM1NDksLTEzMzgyOTM4MiwtMj
+Q0NzQ4MjYsLTUxNDUyODcyOCwxNjMwMTk4MTM4LDE4MDIyMzMz
+ODMsLTIwNTA5Mzk2MDEsMTA0MjczMjM4Myw1NTkxMDM1MDksNz
+g0NTUxMDY3LC0xMzg5ODIzMDk1LDk1NzU3NjExMSwtMjg2OTk4
+Mjc5LDEyNTIxMDYzNSw3NDY2ODczOTgsMTQxMjM1OTk2MiwtMj
+c2MzU4MDYxXX0=
 -->
