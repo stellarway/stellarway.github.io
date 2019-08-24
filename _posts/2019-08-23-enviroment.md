@@ -81,8 +81,9 @@ jupyter lab은 jupyter notebook을 기반으로 만들어진 것이어서 기본
 cd C:\Python\Ground
 jupyter lab
 ```
-여기서 Ground는 내가 작업하는 파이썬 파일들이 저장될 곳이다.  
-(여담이지만
+여기서 Ground는앞으로 내가 작업하는 파이썬 파일들이 저장될 곳이다.  
+~~(여담이지만 학원 등에서 배우는 파일을 PlayGround, 개인적으로 집에서 따로 작업한 파일은 HomeGround에 저장을 해왔기 때문에 폴더 이름을 'Ground'로 정했다)~~
+
 
 # Github 가입
 # GitKraken 설치
@@ -90,7 +91,7 @@ jupyter lab
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1ODIwMzU1OSwzOTk2MzAxMjUsNjMxOD
+eyJoaXN0b3J5IjpbLTgxNzg1ODI5OCwzOTk2MzAxMjUsNjMxOD
 A0NDY4LC01MjYwNjUyNjgsLTEwMDczMTAyNjUsLTE1NzQ4MjIx
 MzQsNDY2NTIzMTc3LC0xNjM5NjYzNTQ5LC0xMzM4MjkzODIsLT
 I0NDc0ODI2LC01MTQ1Mjg3MjgsMTYzMDE5ODEzOCwxODAyMjMz
