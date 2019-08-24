@@ -112,18 +112,19 @@ jupyter lab에는 치명적인 단점이 있다.  jupyter notebook에 비해 테
 > 2. 빠르다. (이것은 1번 다음으로 제일 중요하다)
 > 3. 커밋하지 않은 변경사항이 있을 경우 그것을 굉장히 직관적으로 나타내준다.
 
-Git Kraken은 무료로 [https://www.gitkraken.com/download/windows64](https://www.gitkraken.com/download/windows64)
+Git Kraken은 무료로 [다운로드](https://www.gitkraken.com/download/windows64) 받아 사용할 수 있다.  
+학생의 경우 Pro로 업그레이드 해주는 혜택도 있으니, 잘 사용해보는 것도 괜찮겠다.
 
 
 # Stackedit 사용
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjMyMDQzMDY1LC0xOTg0MTA2NzMxLDE3NT
-A4MDcyNzMsMjAwMTk3ODE4NCwtMTUyNzk5Mjc5NSwzOTk2MzAx
-MjUsNjMxODA0NDY4LC01MjYwNjUyNjgsLTEwMDczMTAyNjUsLT
-E1NzQ4MjIxMzQsNDY2NTIzMTc3LC0xNjM5NjYzNTQ5LC0xMzM4
-MjkzODIsLTI0NDc0ODI2LC01MTQ1Mjg3MjgsMTYzMDE5ODEzOC
-wxODAyMjMzMzgzLC0yMDUwOTM5NjAxLDEwNDI3MzIzODMsNTU5
-MTAzNTA5XX0=
+eyJoaXN0b3J5IjpbLTE2NzY2MzU4MjEsLTE5ODQxMDY3MzEsMT
+c1MDgwNzI3MywyMDAxOTc4MTg0LC0xNTI3OTkyNzk1LDM5OTYz
+MDEyNSw2MzE4MDQ0NjgsLTUyNjA2NTI2OCwtMTAwNzMxMDI2NS
+wtMTU3NDgyMjEzNCw0NjY1MjMxNzcsLTE2Mzk2NjM1NDksLTEz
+MzgyOTM4MiwtMjQ0NzQ4MjYsLTUxNDUyODcyOCwxNjMwMTk4MT
+M4LDE4MDIyMzMzODMsLTIwNTA5Mzk2MDEsMTA0MjczMjM4Myw1
+NTkxMDM1MDldfQ==
 -->
