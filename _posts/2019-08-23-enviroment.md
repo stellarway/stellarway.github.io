@@ -36,7 +36,6 @@ comments: true
 ![enter image description here](https://lh3.googleusercontent.com/_GYsx1cCR-_HFYwAzjxJmnS79ZVw0bEBFimG0pk5IBuICy6mqQT9J0l9ADZL_8j-7EKp3ThG7Szx "intall python3")
 
 
-
 ## 가상환경 사용 (Python Venv)
 가상환경 구축에는 [이 분의 블로그](https://yongbeomkim.github.io/python/python-settings/)를 많이 참고했다.  
 먼저 cmd를 실행해여 다음과 같이 타이핑한다.
@@ -84,11 +83,11 @@ jupyter lab은 jupyter notebook을 기반으로 만들어진 것이어서 기본
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM2ODY4MDM2LC0xMDA3MzEwMjY1LC0xNT
-c0ODIyMTM0LDQ2NjUyMzE3NywtMTYzOTY2MzU0OSwtMTMzODI5
-MzgyLC0yNDQ3NDgyNiwtNTE0NTI4NzI4LDE2MzAxOTgxMzgsMT
-gwMjIzMzM4MywtMjA1MDkzOTYwMSwxMDQyNzMyMzgzLDU1OTEw
-MzUwOSw3ODQ1NTEwNjcsLTEzODk4MjMwOTUsOTU3NTc2MTExLC
-0yODY5OTgyNzksMTI1MjEwNjM1LDc0NjY4NzM5OCwxNDEyMzU5
-OTYyXX0=
+eyJoaXN0b3J5IjpbLTk5MzQ0Mjk1OCwtMTAwNzMxMDI2NSwtMT
+U3NDgyMjEzNCw0NjY1MjMxNzcsLTE2Mzk2NjM1NDksLTEzMzgy
+OTM4MiwtMjQ0NzQ4MjYsLTUxNDUyODcyOCwxNjMwMTk4MTM4LD
+E4MDIyMzMzODMsLTIwNTA5Mzk2MDEsMTA0MjczMjM4Myw1NTkx
+MDM1MDksNzg0NTUxMDY3LC0xMzg5ODIzMDk1LDk1NzU3NjExMS
+wtMjg2OTk4Mjc5LDEyNTIxMDYzNSw3NDY2ODczOTgsMTQxMjM1
+OTk2Ml19
 -->
