@@ -31,7 +31,8 @@ comments: true
 그 다음 Customize installation을 선택해서 새로 경로를 지정해주면 나중에 삭제 시 깔끔하게 제거할 수 있다.
 ![enter image description here](https://lh3.googleusercontent.com/X6YwCISOqwbnwFMn5qLAeJUVou1xviJjdHYiBGRbKcz0aqgwK5EsZQY2PsPlF3OstW6LsgXRlSy7 "intall python2")
 ![enter image description here](https://lh3.googleusercontent.com/_GYsx1cCR-_HFYwAzjxJmnS79ZVw0bEBFimG0pk5IBuICy6mqQT9J0l9ADZL_8j-7EKp3ThG7Szx "intall python3")
-나는 다음과 같ㅇ
+
+
 
 ## 가상환경 사용
 가상환경 구축에는 [이 분의 블로그](https://yongbeomkim.github.io/python/python-settings/)를 많이 참고했다.
@@ -47,7 +48,7 @@ comments: true
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc5MjAwNTI5LC0xNjM5NjYzNTQ5LC0xMz
+eyJoaXN0b3J5IjpbNDQ0NDQ4OTc3LC0xNjM5NjYzNTQ5LC0xMz
 M4MjkzODIsLTI0NDc0ODI2LC01MTQ1Mjg3MjgsMTYzMDE5ODEz
 OCwxODAyMjMzMzgzLC0yMDUwOTM5NjAxLDEwNDI3MzIzODMsNT
 U5MTAzNTA5LDc4NDU1MTA2NywtMTM4OTgyMzA5NSw5NTc1NzYx
