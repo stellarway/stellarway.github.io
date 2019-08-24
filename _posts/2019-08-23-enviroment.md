@@ -20,7 +20,6 @@ comments: true
 ## Python 설치
 파이썬 홈페이지에서 [Downloads](https://www.python.org/downloads/windows/)로 들어가 [최신 Release](https://www.python.org/downloads/release/python-374/)가 무엇인지 확인한다. Python2와 Python3가 있는데, NLP를 하다보면 ML(머신러닝)을 돌려야하는 일이 종종 발생한다.  이에 TensorFlow가 Python3.7 버전과 호환이 되는 지 [확인](https://tensorflow.blog/2019/02/03/tensorflow-1-13-0-support-python-3-7/) 한 후 Python3.7 을 설치했다.
 파이썬 홈페이지에서 "Windows x86-64 executable installer" Version을 [다운로드](https://www.python.org/ftp/python/3.7.4/python-3.7.4-amd64.exe)  받은 후 실행하면 된다.  
-*(혹시 나와 같은 환경을 구축하려는 사람이 있다면 위의 '다운로드' 버튼만 누르면 된다)*
 
 ![enter image description here](https://lh3.googleusercontent.com/J8qs6nLvOQsBQxQyTgzeRB1PopP1nyKO287uBT50yAbbXWz-30nNHPmb6GpNO5YTAy0k9FybOA9H=s800 "install page")
 
@@ -120,11 +119,11 @@ Git Kraken은 무료로 [다운로드](https://www.gitkraken.com/download/window
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxMTkyMDcyMywtMTY5MDYxMDk5MywtMT
-k4NDEwNjczMSwxNzUwODA3MjczLDIwMDE5NzgxODQsLTE1Mjc5
-OTI3OTUsMzk5NjMwMTI1LDYzMTgwNDQ2OCwtNTI2MDY1MjY4LC
-0xMDA3MzEwMjY1LC0xNTc0ODIyMTM0LDQ2NjUyMzE3NywtMTYz
-OTY2MzU0OSwtMTMzODI5MzgyLC0yNDQ3NDgyNiwtNTE0NTI4Nz
-I4LDE2MzAxOTgxMzgsMTgwMjIzMzM4MywtMjA1MDkzOTYwMSwx
-MDQyNzMyMzgzXX0=
+eyJoaXN0b3J5IjpbLTE1NjE4ODEzNTAsLTE2OTA2MTA5OTMsLT
+E5ODQxMDY3MzEsMTc1MDgwNzI3MywyMDAxOTc4MTg0LC0xNTI3
+OTkyNzk1LDM5OTYzMDEyNSw2MzE4MDQ0NjgsLTUyNjA2NTI2OC
+wtMTAwNzMxMDI2NSwtMTU3NDgyMjEzNCw0NjY1MjMxNzcsLTE2
+Mzk2NjM1NDksLTEzMzgyOTM4MiwtMjQ0NzQ4MjYsLTUxNDUyOD
+cyOCwxNjMwMTk4MTM4LDE4MDIyMzMzODMsLTIwNTA5Mzk2MDEs
+MTA0MjczMjM4M119
 -->
