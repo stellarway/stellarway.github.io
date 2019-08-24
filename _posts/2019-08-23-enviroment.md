@@ -60,6 +60,7 @@ C:\Python\Venv\NLP\Scripts>activate
 ```
 
 # jupyter lab 설치
+설치 법에 대해 얘기하기 앞서, 내가 왜 jupyter lab을 선택했는지 기록핻
 > jupyter Notebook이 아닌 jupyter lab을 사용하는 이유
 ## jupyter lab 설치
 ## jupyter lab 바로가기 만들기
@@ -70,7 +71,7 @@ C:\Python\Venv\NLP\Scripts>activate
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1ODEwMzg1NCwtMTU3NDgyMjEzNCw0Nj
+eyJoaXN0b3J5IjpbMTczMzIxMjU1MCwtMTU3NDgyMjEzNCw0Nj
 Y1MjMxNzcsLTE2Mzk2NjM1NDksLTEzMzgyOTM4MiwtMjQ0NzQ4
 MjYsLTUxNDUyODcyOCwxNjMwMTk4MTM4LDE4MDIyMzMzODMsLT
 IwNTA5Mzk2MDEsMTA0MjczMjM4Myw1NTkxMDM1MDksNzg0NTUx
