@@ -40,10 +40,10 @@ comments: true
 가상환경 구축에는 [이 분의 블로그](https://yongbeomkim.github.io/python/python-settings/)를 많이 참고했다.  
 먼저 cmd를 실행해여 다음과 같이 타이핑한다.
 ```
-C:\> cd c:\Python # 파이썬 설치 시 만든 'Python' 폴더에 접근
-C:\Python> mkdir Venv # Venv 폴더를 cmd상에서 생성
+C:\> cd c:\Python 					# 파이썬 설치 시 만든 'Python' 폴더에 접근
+C:\Python> mkdir Venv 				# Venv 폴더를 cmd상에서 생성
 C:\Python> cd Venv 
-C:\Python\Venv> python -m venv NLP # python 의 명령어를 사용하여 'NLP'라는 이름의 가상환경을 만들어냄
+C:\Python\Venv> python -m venv NLP 	# python 의 명령어를 사용하여 'NLP'라는 이름의 가상환경을 만들어냄
 ```
 여기서 'NLP'는 Venv 내의 폴더로 만들어지기도 하고 가상환경의 이름이 되기도 한다. 이 작업이 완료되면 다음과 같은 작업을 통해 파이썬을 실행할 수 있다.
 ```
@@ -79,7 +79,7 @@ jupyter lab은 jupyter notebook을 기반으로 만들어진 것이어서 기본
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0MDA0ODE4MCwtMTAwNzMxMDI2NSwtMT
+eyJoaXN0b3J5IjpbLTUyNjA2NTI2OCwtMTAwNzMxMDI2NSwtMT
 U3NDgyMjEzNCw0NjY1MjMxNzcsLTE2Mzk2NjM1NDksLTEzMzgy
 OTM4MiwtMjQ0NzQ4MjYsLTUxNDUyODcyOCwxNjMwMTk4MTM4LD
 E4MDIyMzMzODMsLTIwNTA5Mzk2MDEsMTA0MjczMjM4Myw1NTkx
