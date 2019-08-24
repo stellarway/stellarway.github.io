@@ -14,7 +14,7 @@ comments: true
 
 많은 사람들이 (실제로 배움의 현장에서도) 파이썬을 시작하기 위해서 아나콘다부터 깔고 시작한다. 아나콘다는 **가상환경 변환이 쉽다**는 점과, **패키지 관리가 쉽다**는 점 때문에 많이 사용된다. 
   
-하지만 실제로 NLP를 학습해보면 아나콘다에 없는 패키지를 `pip`*(파이썬 관련 패키지 설치 툴)*을 이용하여 깔아야 할 일이 많다. 즉, **어차피 아나콘다를 거치지 않는 것**이다. 사용하지 않는다면 용량도 큰 아나콘다를 굳이 유지할 필요가 없다. 
+하지만 실제로 NLP를 학습해보면 아나콘다에 없는 패키지를 **pip** *(파이썬 관련 패키지 설치 툴)*을 이용하여 깔아야 할 일이 많다. 즉, **어차피 아나콘다를 거치지 않는 것**이다. 사용하지 않는다면 용량도 큰 아나콘다를 굳이 유지할 필요가 없다. 
 
 ## Python 설치
 파이썬 홈페이지에서 [Downloads](https://www.python.org/downloads/windows/)로 들어가 [최신 Release](https://www.python.org/downloads/release/python-374/)가 무엇인지 확인한다. Python2와 Python3가 있는데, NLP를 하다보면 ML(머신러닝)을 돌려야하는 일이 종종 발생한다.  TensorFlow가 Python3.7 버전과 호환이 되는 지 [확인](https://tensorflow.blog/2019/02/03/tensorflow-1-13-0-support-python-3-7/) 한 후 Python3.7 을 설치했다.
@@ -35,7 +35,7 @@ comments: true
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg0NTUxMDY3LC0xMzg5ODIzMDk1LDk1Nz
-U3NjExMSwtMjg2OTk4Mjc5LDEyNTIxMDYzNSw3NDY2ODczOTgs
-MTQxMjM1OTk2MiwtMjc2MzU4MDYxXX0=
+eyJoaXN0b3J5IjpbNTU5MTAzNTA5LDc4NDU1MTA2NywtMTM4OT
+gyMzA5NSw5NTc1NzYxMTEsLTI4Njk5ODI3OSwxMjUyMTA2MzUs
+NzQ2Njg3Mzk4LDE0MTIzNTk5NjIsLTI3NjM1ODA2MV19
 -->
