@@ -96,6 +96,9 @@ jupyter lab
 아이콘 변경을 위해서는 아이콘이 필요하다.  
 구글링을 통해 원하는 이미지를 다운받는다. 나는 jupyter의 로고를 다운받았다.   
 아이콘으로 넣기 위해서는 [ico 형식의 파일로 변환](https://convertio.co/kr/png-ico/)을 해줘야 한다.
+ico 형식의 파일을 찾아 넣으면 예쁘게 잘 들어간 것을 확인할 수 있다.  
+이제 jupyter lab으로 바로 접근이 가능하다.  
+다음과 같이 윈도우 자체의 검색창에서 내가 지정한 앱 이름을 타이핑하면 NLP 가상환경 내의 jupyter lab이 시행된다.
 
 
 # Github 가입
@@ -104,11 +107,11 @@ jupyter lab
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0MzgzMzUsLTE1Mjc5OTI3OTUsMzk5Nj
-MwMTI1LDYzMTgwNDQ2OCwtNTI2MDY1MjY4LC0xMDA3MzEwMjY1
-LC0xNTc0ODIyMTM0LDQ2NjUyMzE3NywtMTYzOTY2MzU0OSwtMT
-MzODI5MzgyLC0yNDQ3NDgyNiwtNTE0NTI4NzI4LDE2MzAxOTgx
-MzgsMTgwMjIzMzM4MywtMjA1MDkzOTYwMSwxMDQyNzMyMzgzLD
-U1OTEwMzUwOSw3ODQ1NTEwNjcsLTEzODk4MjMwOTUsOTU3NTc2
-MTExXX0=
+eyJoaXN0b3J5IjpbMjAwMTk3ODE4NCwtMTUyNzk5Mjc5NSwzOT
+k2MzAxMjUsNjMxODA0NDY4LC01MjYwNjUyNjgsLTEwMDczMTAy
+NjUsLTE1NzQ4MjIxMzQsNDY2NTIzMTc3LC0xNjM5NjYzNTQ5LC
+0xMzM4MjkzODIsLTI0NDc0ODI2LC01MTQ1Mjg3MjgsMTYzMDE5
+ODEzOCwxODAyMjMzMzgzLC0yMDUwOTM5NjAxLDEwNDI3MzIzOD
+MsNTU5MTAzNTA5LDc4NDU1MTA2NywtMTM4OTgyMzA5NSw5NTc1
+NzYxMTFdfQ==
 -->
