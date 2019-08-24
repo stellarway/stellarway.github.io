@@ -76,7 +76,13 @@ jupyter lab은 jupyter notebook을 기반으로 만들어진 것이어서 기본
 > C:\Python\Venv\NLP\Scripts
 
 그럼 'activate' 파일을 볼 수 있을 것이다. 
-
+그것을 메모장으로 열어 맨 아랫쪽에 다음 두 줄을 추가해준다.
+```
+cd C:\Python\Ground
+jupyter lab
+```
+여기서 Ground는 내가 작업하는 파이썬 파일들이 저장될 곳이다.  
+(여담이지만
 
 # Github 가입
 # GitKraken 설치
@@ -84,11 +90,11 @@ jupyter lab은 jupyter notebook을 기반으로 만들어진 것이어서 기본
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTA3OTM5ODUsMzk5NjMwMTI1LDYzMT
-gwNDQ2OCwtNTI2MDY1MjY4LC0xMDA3MzEwMjY1LC0xNTc0ODIy
-MTM0LDQ2NjUyMzE3NywtMTYzOTY2MzU0OSwtMTMzODI5MzgyLC
-0yNDQ3NDgyNiwtNTE0NTI4NzI4LDE2MzAxOTgxMzgsMTgwMjIz
-MzM4MywtMjA1MDkzOTYwMSwxMDQyNzMyMzgzLDU1OTEwMzUwOS
-w3ODQ1NTEwNjcsLTEzODk4MjMwOTUsOTU3NTc2MTExLC0yODY5
-OTgyNzldfQ==
+eyJoaXN0b3J5IjpbLTc1ODIwMzU1OSwzOTk2MzAxMjUsNjMxOD
+A0NDY4LC01MjYwNjUyNjgsLTEwMDczMTAyNjUsLTE1NzQ4MjIx
+MzQsNDY2NTIzMTc3LC0xNjM5NjYzNTQ5LC0xMzM4MjkzODIsLT
+I0NDc0ODI2LC01MTQ1Mjg3MjgsMTYzMDE5ODEzOCwxODAyMjMz
+MzgzLC0yMDUwOTM5NjAxLDEwNDI3MzIzODMsNTU5MTAzNTA5LD
+c4NDU1MTA2NywtMTM4OTgyMzA5NSw5NTc1NzYxMTEsLTI4Njk5
+ODI3OV19
 -->
