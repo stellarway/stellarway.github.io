@@ -37,7 +37,15 @@ comments: true
 
 
 ## 가상환경 사용 (Python Venv)
-가상환경 구축에는 [이 분의 블로그](https://yongbeomkim.github.io/python/python-settings/)를 많이 참고했다.
+가상환경 구축에는 [이 분의 블로그](https://yongbeomkim.github.io/python/python-settings/)를 많이 참고했다.  
+먼저 cmd를 실행해여 다음과 같이 타이핑한다.
+```
+C:\> cd c:\Python
+C:\Python> mkdir Venv
+C:\Python> cd Venv
+C:\Python\Venv> python -m venv NLP
+```
+
 
 # jupyter lab 설치
 > jupyter Notebook이 아닌 jupyter lab을 사용하는 이유
@@ -50,7 +58,7 @@ comments: true
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2ODQzNDU1OSw0NjY1MjMxNzcsLTE2Mz
+eyJoaXN0b3J5IjpbLTQzMTY1OTE3OCw0NjY1MjMxNzcsLTE2Mz
 k2NjM1NDksLTEzMzgyOTM4MiwtMjQ0NzQ4MjYsLTUxNDUyODcy
 OCwxNjMwMTk4MTM4LDE4MDIyMzMzODMsLTIwNTA5Mzk2MDEsMT
 A0MjczMjM4Myw1NTkxMDM1MDksNzg0NTUxMDY3LC0xMzg5ODIz
