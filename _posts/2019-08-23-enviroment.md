@@ -120,15 +120,19 @@ Git Kraken은 무료로 [다운로드](https://www.gitkraken.com/download/window
 [Stackedit](https://stackedit.io/) 같은 경우 사실상 개발에 필요한 도구는 아니다.  
 하지만 Github 블로그를 관리하는 데에 있어 굉장히 유용한 Tool이어서 여기에 같이 기록한다.
 stackedit는 markdown 에디터이다. 다른 마크다운 에디터도 많지만, 이 앱은 특히 강력한 동기화 기능을 자랑한다.  
-깃헙이나 구글 드라이브 등에 연결이 가느  
+깃헙이나 구글 드라이브 등에 연결이 가능한 것이다.    
 특히, github 블로그 사용하는 사람이 있다면 github과 연동해두면 md파일을 작성하고 저장하면, 그 즉시 해당 repo에 push가 된다. ~~(이는 엄청난 혁명)~~
+  
+ stackedit에서 github등과 연동하는 방법은 다음과 같다. 먼저 오른쪽의 stackedit 로고를 눌러 메뉴를 열고, workspaces를 클릭한다.
+![enter image description here](https://lh3.googleusercontent.com/CheNDc3kcke4-lvXq3ocCpi4HbM0enTlT-2ooS2udR5cSsePT_f7y-EWN6Vz98TwgU5t0tmHD4Lz)
 
+그 후 해당 'add a **GitHub
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMjQ5MzUzLDE0NjQyOTA3NzcsLTE2OT
-A2MTA5OTMsLTE5ODQxMDY3MzEsMTc1MDgwNzI3MywyMDAxOTc4
-MTg0LC0xNTI3OTkyNzk1LDM5OTYzMDEyNSw2MzE4MDQ0NjgsLT
-UyNjA2NTI2OCwtMTAwNzMxMDI2NSwtMTU3NDgyMjEzNCw0NjY1
-MjMxNzcsLTE2Mzk2NjM1NDksLTEzMzgyOTM4MiwtMjQ0NzQ4Mj
-YsLTUxNDUyODcyOCwxNjMwMTk4MTM4LDE4MDIyMzMzODMsLTIw
-NTA5Mzk2MDFdfQ==
+eyJoaXN0b3J5IjpbMTQzNTM2OTkyMywxNDY0MjkwNzc3LC0xNj
+kwNjEwOTkzLC0xOTg0MTA2NzMxLDE3NTA4MDcyNzMsMjAwMTk3
+ODE4NCwtMTUyNzk5Mjc5NSwzOTk2MzAxMjUsNjMxODA0NDY4LC
+01MjYwNjUyNjgsLTEwMDczMTAyNjUsLTE1NzQ4MjIxMzQsNDY2
+NTIzMTc3LC0xNjM5NjYzNTQ5LC0xMzM4MjkzODIsLTI0NDc0OD
+I2LC01MTQ1Mjg3MjgsMTYzMDE5ODEzOCwxODAyMjMzMzgzLC0y
+MDUwOTM5NjAxXX0=
 -->
