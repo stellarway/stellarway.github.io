@@ -23,7 +23,7 @@ comments: true
 
 ![enter image description here](https://lh3.googleusercontent.com/J8qs6nLvOQsBQxQyTgzeRB1PopP1nyKO287uBT50yAbbXWz-30nNHPmb6GpNO5YTAy0k9FybOA9H=s800 "install page")
 
-
+설치 시에 이것저것 
 
 ## 가상환경 사용
 가상환경 구축에는 [이 분의 블로그](https://yongbeomkim.github.io/python/python-settings/)를 많이 참고했다.
@@ -39,9 +39,9 @@ comments: true
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0NDc0ODI2LC01MTQ1Mjg3MjgsMTYzMD
-E5ODEzOCwxODAyMjMzMzgzLC0yMDUwOTM5NjAxLDEwNDI3MzIz
-ODMsNTU5MTAzNTA5LDc4NDU1MTA2NywtMTM4OTgyMzA5NSw5NT
-c1NzYxMTEsLTI4Njk5ODI3OSwxMjUyMTA2MzUsNzQ2Njg3Mzk4
-LDE0MTIzNTk5NjIsLTI3NjM1ODA2MV19
+eyJoaXN0b3J5IjpbODk5NTMwMTIyLC0yNDQ3NDgyNiwtNTE0NT
+I4NzI4LDE2MzAxOTgxMzgsMTgwMjIzMzM4MywtMjA1MDkzOTYw
+MSwxMDQyNzMyMzgzLDU1OTEwMzUwOSw3ODQ1NTEwNjcsLTEzOD
+k4MjMwOTUsOTU3NTc2MTExLC0yODY5OTgyNzksMTI1MjEwNjM1
+LDc0NjY4NzM5OCwxNDEyMzU5OTYyLC0yNzYzNTgwNjFdfQ==
 -->
