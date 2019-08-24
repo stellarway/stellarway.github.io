@@ -36,7 +36,7 @@ comments: true
 
 
 
-## 가상환경 사용
+## 가상환경 사용 (Python Venv)
 가상환경 구축에는 [이 분의 블로그](https://yongbeomkim.github.io/python/python-settings/)를 많이 참고했다.
 
 # jupyter lab 설치
@@ -50,10 +50,10 @@ comments: true
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY2NTIzMTc3LC0xNjM5NjYzNTQ5LC0xMz
-M4MjkzODIsLTI0NDc0ODI2LC01MTQ1Mjg3MjgsMTYzMDE5ODEz
-OCwxODAyMjMzMzgzLC0yMDUwOTM5NjAxLDEwNDI3MzIzODMsNT
-U5MTAzNTA5LDc4NDU1MTA2NywtMTM4OTgyMzA5NSw5NTc1NzYx
-MTEsLTI4Njk5ODI3OSwxMjUyMTA2MzUsNzQ2Njg3Mzk4LDE0MT
-IzNTk5NjIsLTI3NjM1ODA2MV19
+eyJoaXN0b3J5IjpbMTA2ODQzNDU1OSw0NjY1MjMxNzcsLTE2Mz
+k2NjM1NDksLTEzMzgyOTM4MiwtMjQ0NzQ4MjYsLTUxNDUyODcy
+OCwxNjMwMTk4MTM4LDE4MDIyMzMzODMsLTIwNTA5Mzk2MDEsMT
+A0MjczMjM4Myw1NTkxMDM1MDksNzg0NTUxMDY3LC0xMzg5ODIz
+MDk1LDk1NzU3NjExMSwtMjg2OTk4Mjc5LDEyNTIxMDYzNSw3ND
+Y2ODczOTgsMTQxMjM1OTk2MiwtMjc2MzU4MDYxXX0=
 -->
