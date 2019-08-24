@@ -109,21 +109,22 @@ jupyter lab에는 치명적인 단점이 있다.  jupyter notebook에 비해 테
 소스트리에 비해 장점이 명확하기 때문이다.
 > 1. 인터페이스가 간편하고 미학적이다. (이것은 매우 중요하다)
 > 2. 빠르다. (이것은 1번 다음으로 제일 중요하다)
-> 3. 커밋하지 않은 변경사항이 있을 경우 그것을 굉장히 직관적으로 나타내준다.
+> 3. 커밋하지 않은 변경사항이 있을 경우 그것을 굉장히 직관적으로 나타내준다. (1번과도 관련이 있는 항목이다)
 
 Git Kraken은 무료로 [다운로드](https://www.gitkraken.com/download/windows64) 받아 사용할 수 있다.  
 학생의 경우 1년 동안 Pro로 업그레이드 해주는 혜택도 있으니, 잘 사용해보는 것도 괜찮겠다.
 
 
 # Stackedit 사용
-
+[Stackedit](https://stackedit.io/) 같은 경우 사실상 개발에 필요한 도구는 아니다.  
+하지만 Git
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjE4ODEzNTAsLTE2OTA2MTA5OTMsLT
-E5ODQxMDY3MzEsMTc1MDgwNzI3MywyMDAxOTc4MTg0LC0xNTI3
-OTkyNzk1LDM5OTYzMDEyNSw2MzE4MDQ0NjgsLTUyNjA2NTI2OC
-wtMTAwNzMxMDI2NSwtMTU3NDgyMjEzNCw0NjY1MjMxNzcsLTE2
-Mzk2NjM1NDksLTEzMzgyOTM4MiwtMjQ0NzQ4MjYsLTUxNDUyOD
-cyOCwxNjMwMTk4MTM4LDE4MDIyMzMzODMsLTIwNTA5Mzk2MDEs
-MTA0MjczMjM4M119
+eyJoaXN0b3J5IjpbNTEyOTEzODQ2LC0xNjkwNjEwOTkzLC0xOT
+g0MTA2NzMxLDE3NTA4MDcyNzMsMjAwMTk3ODE4NCwtMTUyNzk5
+Mjc5NSwzOTk2MzAxMjUsNjMxODA0NDY4LC01MjYwNjUyNjgsLT
+EwMDczMTAyNjUsLTE1NzQ4MjIxMzQsNDY2NTIzMTc3LC0xNjM5
+NjYzNTQ5LC0xMzM4MjkzODIsLTI0NDc0ODI2LC01MTQ1Mjg3Mj
+gsMTYzMDE5ODEzOCwxODAyMjMzMzgzLC0yMDUwOTM5NjAxLDEw
+NDI3MzIzODNdfQ==
 -->
