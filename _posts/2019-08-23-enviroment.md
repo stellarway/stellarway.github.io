@@ -109,7 +109,7 @@ jupyter lab에는 치명적인 단점이 있다.  jupyter notebook에 비해 테
 소스트리에 비해 장점이 명확하기 때문이다.
 > 1. 인터페이스가 간편하고 미학적이다. (이것은 매우 중요하다. 예를 들어 커밋하지 않은 변경사항이 있을 경우 그것을 굉장히 직관적으로 나타내준다)
 > 2. 빠르다. (이것은 1번 다음으로 제일 중요하다)
-> 3. 
+> 3. 풀리퀘스트(Pull-Request)의 관리가 가능하다.
 
 Git Kraken은 무료로 [다운로드](https://www.gitkraken.com/download/windows64) 받아 사용할 수 있다.  
 학생의 경우 1년 동안 Pro로 업그레이드 해주는 혜택도 있으니, 잘 사용해보는 것도 괜찮겠다.
@@ -119,13 +119,14 @@ Git Kraken은 무료로 [다운로드](https://www.gitkraken.com/download/window
 # Stackedit 사용
 [Stackedit](https://stackedit.io/) 같은 경우 사실상 개발에 필요한 도구는 아니다.  
 하지만 Github 블로그를 개설하는 데에 있어 굉장히 유용한 Tool이어서 여기에 같이 기록한다.
-
+stackedit는 markdown 에디터이다. 다른 마크다운 에디터도 많지만, 이 앱은 특히 강력한 동기화 기능을 자랑한다.  
+깃헙
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNDc5NDA3MiwtMTY5MDYxMDk5MywtMT
-k4NDEwNjczMSwxNzUwODA3MjczLDIwMDE5NzgxODQsLTE1Mjc5
-OTI3OTUsMzk5NjMwMTI1LDYzMTgwNDQ2OCwtNTI2MDY1MjY4LC
-0xMDA3MzEwMjY1LC0xNTc0ODIyMTM0LDQ2NjUyMzE3NywtMTYz
-OTY2MzU0OSwtMTMzODI5MzgyLC0yNDQ3NDgyNiwtNTE0NTI4Nz
-I4LDE2MzAxOTgxMzgsMTgwMjIzMzM4MywtMjA1MDkzOTYwMSwx
-MDQyNzMyMzgzXX0=
+eyJoaXN0b3J5IjpbMjU2NTI0MTI5LC0xNjkwNjEwOTkzLC0xOT
+g0MTA2NzMxLDE3NTA4MDcyNzMsMjAwMTk3ODE4NCwtMTUyNzk5
+Mjc5NSwzOTk2MzAxMjUsNjMxODA0NDY4LC01MjYwNjUyNjgsLT
+EwMDczMTAyNjUsLTE1NzQ4MjIxMzQsNDY2NTIzMTc3LC0xNjM5
+NjYzNTQ5LC0xMzM4MjkzODIsLTI0NDc0ODI2LC01MTQ1Mjg3Mj
+gsMTYzMDE5ODEzOCwxODAyMjMzMzgzLC0yMDUwOTM5NjAxLDEw
+NDI3MzIzODNdfQ==
 -->
