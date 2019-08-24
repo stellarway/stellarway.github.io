@@ -49,10 +49,10 @@ C:\Python\Venv> python -m venv NLP
 Venv 폴더를 cmd상에서 생성했으며,
 그곳에 접근하여
 python 의 명령어를 사용하여 'NLP'라는 이름의 가상환경을 만들어낸 것이다.
-여기서 'NLP'는 Venv 
+여기서 'NLP'는 Venv 내의 폴더로 만들어지기도 하고 가상환경의 이름이 되기도 한다. 이 작업이 완료되면 다음과 같은 작업을 통해 실행할 수 있다.
 ```
-C:\Python\Venv> cd Tensorflow\Scripts
-C:\Python\Venv\Tensorflow\Scripts>activate
+C:\Python\Venv> cd NLP\Scripts
+C:\Python\Venv\NLP\Scripts>activate
 
 (Tensorflow) C:\Python\Venv\Tensorflow\Scripts>
 ```
@@ -68,10 +68,10 @@ C:\Python\Venv\Tensorflow\Scripts>activate
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzNjYwMjc0OSw0NjY1MjMxNzcsLTE2Mz
-k2NjM1NDksLTEzMzgyOTM4MiwtMjQ0NzQ4MjYsLTUxNDUyODcy
-OCwxNjMwMTk4MTM4LDE4MDIyMzMzODMsLTIwNTA5Mzk2MDEsMT
-A0MjczMjM4Myw1NTkxMDM1MDksNzg0NTUxMDY3LC0xMzg5ODIz
-MDk1LDk1NzU3NjExMSwtMjg2OTk4Mjc5LDEyNTIxMDYzNSw3ND
-Y2ODczOTgsMTQxMjM1OTk2MiwtMjc2MzU4MDYxXX0=
+eyJoaXN0b3J5IjpbLTE1NzQ4MjIxMzQsNDY2NTIzMTc3LC0xNj
+M5NjYzNTQ5LC0xMzM4MjkzODIsLTI0NDc0ODI2LC01MTQ1Mjg3
+MjgsMTYzMDE5ODEzOCwxODAyMjMzMzgzLC0yMDUwOTM5NjAxLD
+EwNDI3MzIzODMsNTU5MTAzNTA5LDc4NDU1MTA2NywtMTM4OTgy
+MzA5NSw5NTc1NzYxMTEsLTI4Njk5ODI3OSwxMjUyMTA2MzUsNz
+Q2Njg3Mzk4LDE0MTIzNTk5NjIsLTI3NjM1ODA2MV19
 -->
