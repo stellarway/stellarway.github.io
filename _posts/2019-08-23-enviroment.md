@@ -27,10 +27,11 @@ comments: true
 나는 아래와 같이 설치했다.
 
 ![enter image description here](https://lh3.googleusercontent.com/PgRDGhpKTUoRdSAAMEYqgP2ltNYiYyKpB1rVR52oNP_oyGidQU9O54OzExGn5mISvr9Z-kE6erfW "intall python1")
-위에서 빨간 체크박스를(Add Python 3.7 to PATH 선택해주는 것이 나중에 정신 건강에 이롭다.
-
+위에서 빨간색으로  체크박스(Add Python 3.7 to PATH)를 선택해주는 것이 나중에 정신 건강에 이롭다.  
+그 다음 Customize installation을 선택해서 새로 경로를 지정해주면 나중에 삭제 시 깔끔하게 제거할 수 있다.
 ![enter image description here](https://lh3.googleusercontent.com/X6YwCISOqwbnwFMn5qLAeJUVou1xviJjdHYiBGRbKcz0aqgwK5EsZQY2PsPlF3OstW6LsgXRlSy7 "intall python2")
 ![enter image description here](https://lh3.googleusercontent.com/_GYsx1cCR-_HFYwAzjxJmnS79ZVw0bEBFimG0pk5IBuICy6mqQT9J0l9ADZL_8j-7EKp3ThG7Szx "intall python3")
+나는 다음과 같ㅇ
 
 ## 가상환경 사용
 가상환경 구축에는 [이 분의 블로그](https://yongbeomkim.github.io/python/python-settings/)를 많이 참고했다.
@@ -46,10 +47,10 @@ comments: true
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Mzk2NjM1NDksLTEzMzgyOTM4MiwtMj
-Q0NzQ4MjYsLTUxNDUyODcyOCwxNjMwMTk4MTM4LDE4MDIyMzMz
-ODMsLTIwNTA5Mzk2MDEsMTA0MjczMjM4Myw1NTkxMDM1MDksNz
-g0NTUxMDY3LC0xMzg5ODIzMDk1LDk1NzU3NjExMSwtMjg2OTk4
-Mjc5LDEyNTIxMDYzNSw3NDY2ODczOTgsMTQxMjM1OTk2MiwtMj
-c2MzU4MDYxXX0=
+eyJoaXN0b3J5IjpbNTc5MjAwNTI5LC0xNjM5NjYzNTQ5LC0xMz
+M4MjkzODIsLTI0NDc0ODI2LC01MTQ1Mjg3MjgsMTYzMDE5ODEz
+OCwxODAyMjMzMzgzLC0yMDUwOTM5NjAxLDEwNDI3MzIzODMsNT
+U5MTAzNTA5LDc4NDU1MTA2NywtMTM4OTgyMzA5NSw5NTc1NzYx
+MTEsLTI4Njk5ODI3OSwxMjUyMTA2MzUsNzQ2Njg3Mzk4LDE0MT
+IzNTk5NjIsLTI3NjM1ODA2MV19
 -->
