@@ -121,13 +121,13 @@ Git Kraken은 무료로 [다운로드](https://www.gitkraken.com/download/window
 하지만 Github 블로그를 관리하는 데에 있어 굉장히 유용한 Tool이어서 여기에 같이 기록한다.
 stackedit는 markdown 에디터이다. 다른 마크다운 에디터도 많지만, 이 앱은 특히 강력한 동기화 기능을 자랑한다.  
 깃헙이나 구글 드라이브 등에 연결하면 에디터에 쓰고 저장하면 바로 연동이 된다.  
-특히, github블로그 사용 시 
+특히, github블로그 사용 시 github과 연동해두면 md파일을 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2NDI5MDc3NywtMTY5MDYxMDk5MywtMT
-k4NDEwNjczMSwxNzUwODA3MjczLDIwMDE5NzgxODQsLTE1Mjc5
-OTI3OTUsMzk5NjMwMTI1LDYzMTgwNDQ2OCwtNTI2MDY1MjY4LC
-0xMDA3MzEwMjY1LC0xNTc0ODIyMTM0LDQ2NjUyMzE3NywtMTYz
-OTY2MzU0OSwtMTMzODI5MzgyLC0yNDQ3NDgyNiwtNTE0NTI4Nz
-I4LDE2MzAxOTgxMzgsMTgwMjIzMzM4MywtMjA1MDkzOTYwMSwx
-MDQyNzMyMzgzXX0=
+eyJoaXN0b3J5IjpbLTQ4NDk0NTU3MCwxNDY0MjkwNzc3LC0xNj
+kwNjEwOTkzLC0xOTg0MTA2NzMxLDE3NTA4MDcyNzMsMjAwMTk3
+ODE4NCwtMTUyNzk5Mjc5NSwzOTk2MzAxMjUsNjMxODA0NDY4LC
+01MjYwNjUyNjgsLTEwMDczMTAyNjUsLTE1NzQ4MjIxMzQsNDY2
+NTIzMTc3LC0xNjM5NjYzNTQ5LC0xMzM4MjkzODIsLTI0NDc0OD
+I2LC01MTQ1Mjg3MjgsMTYzMDE5ODEzOCwxODAyMjMzMzgzLC0y
+MDUwOTM5NjAxXX0=
 -->
