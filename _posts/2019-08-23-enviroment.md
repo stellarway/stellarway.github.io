@@ -60,7 +60,8 @@ C:\Python\Venv\NLP\Scripts>activate
 ```
 
 # jupyter lab 설치
-설치 법에 대해 얘기하기 앞서, 내가 왜 jupyter lab을 선택했는지 기록핻
+설치 법에 대해 얘기하기 앞서, 내가 왜 jupyter lab을 선택했는지 기록해두려 한다.
+jupyter lab은 jupyter notebook을 기반으로 만들어진 것이어서기본적인 jupyter notebook의 
 > jupyter Notebook이 아닌 jupyter lab을 사용하는 이유
 ## jupyter lab 설치
 ## jupyter lab 바로가기 만들기
@@ -71,11 +72,11 @@ C:\Python\Venv\NLP\Scripts>activate
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczMzIxMjU1MCwtMTU3NDgyMjEzNCw0Nj
-Y1MjMxNzcsLTE2Mzk2NjM1NDksLTEzMzgyOTM4MiwtMjQ0NzQ4
-MjYsLTUxNDUyODcyOCwxNjMwMTk4MTM4LDE4MDIyMzMzODMsLT
-IwNTA5Mzk2MDEsMTA0MjczMjM4Myw1NTkxMDM1MDksNzg0NTUx
-MDY3LC0xMzg5ODIzMDk1LDk1NzU3NjExMSwtMjg2OTk4Mjc5LD
-EyNTIxMDYzNSw3NDY2ODczOTgsMTQxMjM1OTk2MiwtMjc2MzU4
-MDYxXX0=
+eyJoaXN0b3J5IjpbLTEwMDczMTAyNjUsLTE1NzQ4MjIxMzQsND
+Y2NTIzMTc3LC0xNjM5NjYzNTQ5LC0xMzM4MjkzODIsLTI0NDc0
+ODI2LC01MTQ1Mjg3MjgsMTYzMDE5ODEzOCwxODAyMjMzMzgzLC
+0yMDUwOTM5NjAxLDEwNDI3MzIzODMsNTU5MTAzNTA5LDc4NDU1
+MTA2NywtMTM4OTgyMzA5NSw5NTc1NzYxMTEsLTI4Njk5ODI3OS
+wxMjUyMTA2MzUsNzQ2Njg3Mzk4LDE0MTIzNTk5NjIsLTI3NjM1
+ODA2MV19
 -->
