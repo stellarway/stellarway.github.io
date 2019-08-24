@@ -88,7 +88,10 @@ jupyter lab
 개인마다 마음에 드는 이름을 'Ground' 부분에 넣으면 된다.
 
 이제 바로가기를 만들어보자  
-아까 수정했던 activate 파일에 오른쪽 버튼을 누르면 '바로가기 만들기' 버튼이 있다. 이것을 클릭하여 바로가기를 생성한 뒤 낵
+아까 수정했던 activate 파일에 오른쪽 버튼을 누르면 '바로가기 만들기' 버튼이 있다. 이것을 클릭하여 바로가기를 생성한 뒤 내가 원하는 이름을 붙여주자. (나는 'NLP lab'이라고 이름을 붙였다)  
+만든 '바로가기'에서 속성을 눌러 들어가면 아이콘 변경을 할 수 있다.
+
+
 [https://convertio.co/kr/png-ico/](https://convertio.co/kr/png-ico/)
 
 
@@ -98,11 +101,11 @@ jupyter lab
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMDk4Mjc1MiwtMTUyNzk5Mjc5NSwzOT
-k2MzAxMjUsNjMxODA0NDY4LC01MjYwNjUyNjgsLTEwMDczMTAy
-NjUsLTE1NzQ4MjIxMzQsNDY2NTIzMTc3LC0xNjM5NjYzNTQ5LC
-0xMzM4MjkzODIsLTI0NDc0ODI2LC01MTQ1Mjg3MjgsMTYzMDE5
-ODEzOCwxODAyMjMzMzgzLC0yMDUwOTM5NjAxLDEwNDI3MzIzOD
-MsNTU5MTAzNTA5LDc4NDU1MTA2NywtMTM4OTgyMzA5NSw5NTc1
-NzYxMTFdfQ==
+eyJoaXN0b3J5IjpbMzY1MzQ2NjEyLC0xNTI3OTkyNzk1LDM5OT
+YzMDEyNSw2MzE4MDQ0NjgsLTUyNjA2NTI2OCwtMTAwNzMxMDI2
+NSwtMTU3NDgyMjEzNCw0NjY1MjMxNzcsLTE2Mzk2NjM1NDksLT
+EzMzgyOTM4MiwtMjQ0NzQ4MjYsLTUxNDUyODcyOCwxNjMwMTk4
+MTM4LDE4MDIyMzMzODMsLTIwNTA5Mzk2MDEsMTA0MjczMjM4My
+w1NTkxMDM1MDksNzg0NTUxMDY3LC0xMzg5ODIzMDk1LDk1NzU3
+NjExMV19
 -->
