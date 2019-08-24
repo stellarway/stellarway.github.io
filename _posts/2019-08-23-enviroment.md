@@ -18,7 +18,7 @@ comments: true
 
 ## Python 설치
 파이썬 홈페이지에서 [Downloads](https://www.python.org/downloads/windows/)로 들어가 [최신 Release](https://www.python.org/downloads/release/python-374/)가 무엇인지 확인한다. Python2와 Python3가 있는데, NLP를 하다보면 ML(머신러닝)을 돌려야하는 일이 종종 발생한다.  TensorFlow가 Python3.7 버전과 호환이 되는 지 [확인](https://tensorflow.blog/2019/02/03/tensorflow-1-13-0-support-python-3-7/) 한 후 Python3.7 을 설치했다.
-"Windows x86-64 executable installer" Version을 [다운로드](https://www.python.org/ftp/python/3.7.4/python-3.7.4-amd64.exe)  받은 후 실행하면 된다.
+"Windows x86-64 executable installer" Version을 [다운로드](https://www.python.org/ftp/python/3.7.4/python-3.7.4-amd64.exe)  받은 후 실행하면 된다.  
 *(혹시 나와 같은 환경을 구축하려는 사람이 있다면 위의 '다운로드' 버튼만 누르면 된다)*
 
 ## 가상환경 사용
@@ -35,7 +35,7 @@ comments: true
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU3NTc2MTExLC0yODY5OTgyNzksMTI1Mj
-EwNjM1LDc0NjY4NzM5OCwxNDEyMzU5OTYyLC0yNzYzNTgwNjFd
-fQ==
+eyJoaXN0b3J5IjpbNTY0MzA3MDMsOTU3NTc2MTExLC0yODY5OT
+gyNzksMTI1MjEwNjM1LDc0NjY4NzM5OCwxNDEyMzU5OTYyLC0y
+NzYzNTgwNjFdfQ==
 -->
