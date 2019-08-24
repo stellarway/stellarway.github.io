@@ -49,12 +49,14 @@ C:\Python\Venv> python -m venv NLP
 Venv 폴더를 cmd상에서 생성했으며,
 그곳에 접근하여
 python 의 명령어를 사용하여 'NLP'라는 이름의 가상환경을 만들어낸 것이다.
-여기서 'NLP'는 Venv 내의 폴더로 만들어지기도 하고 가상환경의 이름이 되기도 한다. 이 작업이 완료되면 다음과 같은 작업을 통해 실행할 수 있다.
+여기서 'NLP'는 Venv 내의 폴더로 만들어지기도 하고 가상환경의 이름이 되기도 한다. 이 작업이 완료되면 다음과 같은 작업을 통해 파이썬을 실행할 수 있다.
 ```
 C:\Python\Venv> cd NLP\Scripts
 C:\Python\Venv\NLP\Scripts>activate
-
-(Tensorflow) C:\Python\Venv\Tensorflow\Scripts>
+```
+그럼 다음과 같이 가상환경으로 진입할 수 있다.
+```
+(NLP) C:\Python\Venv\NLP\Scripts>
 ```
 
 # jupyter lab 설치
@@ -68,10 +70,11 @@ C:\Python\Venv\NLP\Scripts>activate
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzQ4MjIxMzQsNDY2NTIzMTc3LC0xNj
-M5NjYzNTQ5LC0xMzM4MjkzODIsLTI0NDc0ODI2LC01MTQ1Mjg3
-MjgsMTYzMDE5ODEzOCwxODAyMjMzMzgzLC0yMDUwOTM5NjAxLD
-EwNDI3MzIzODMsNTU5MTAzNTA5LDc4NDU1MTA2NywtMTM4OTgy
-MzA5NSw5NTc1NzYxMTEsLTI4Njk5ODI3OSwxMjUyMTA2MzUsNz
-Q2Njg3Mzk4LDE0MTIzNTk5NjIsLTI3NjM1ODA2MV19
+eyJoaXN0b3J5IjpbLTQ1ODEwMzg1NCwtMTU3NDgyMjEzNCw0Nj
+Y1MjMxNzcsLTE2Mzk2NjM1NDksLTEzMzgyOTM4MiwtMjQ0NzQ4
+MjYsLTUxNDUyODcyOCwxNjMwMTk4MTM4LDE4MDIyMzMzODMsLT
+IwNTA5Mzk2MDEsMTA0MjczMjM4Myw1NTkxMDM1MDksNzg0NTUx
+MDY3LC0xMzg5ODIzMDk1LDk1NzU3NjExMSwtMjg2OTk4Mjc5LD
+EyNTIxMDYzNSw3NDY2ODczOTgsMTQxMjM1OTk2MiwtMjc2MzU4
+MDYxXX0=
 -->
