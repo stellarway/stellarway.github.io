@@ -30,8 +30,9 @@ comments: true
 
 ![enter image description here](https://lh3.googleusercontent.com/PgRDGhpKTUoRdSAAMEYqgP2ltNYiYyKpB1rVR52oNP_oyGidQU9O54OzExGn5mISvr9Z-kE6erfW "intall python1")
 위에서 빨간색으로  체크박스(Add Python 3.7 to PATH)를 선택해주는 것이 나중에 정신 건강에 이롭다.  
-그 다음 Customize installation을 선택해서 새로 경로를 지정해주면 나중에 삭제 시 깔끔하게 제거할 수 있다.
-![enter image description here](https://lh3.googleusercontent.com/X6YwCISOqwbnwFMn5qLAeJUVou1xviJjdHYiBGRbKcz0aqgwK5EsZQY2PsPlF3OstW6LsgXRlSy7 "intall python2")
+  
+그 다음 Customize installation을 선택해서 아래 사진과 같이 새로 경로를 지정해주면 나중에 삭제 시 깔끔하게 제거할 수 있다.
+
 ![enter image description here](https://lh3.googleusercontent.com/_GYsx1cCR-_HFYwAzjxJmnS79ZVw0bEBFimG0pk5IBuICy6mqQT9J0l9ADZL_8j-7EKp3ThG7Szx "intall python3")
 
 
@@ -83,11 +84,11 @@ jupyter lab은 jupyter notebook을 기반으로 만들어진 것이어서 기본
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODY4NDMzNzcsLTEwMDczMTAyNjUsLT
-E1NzQ4MjIxMzQsNDY2NTIzMTc3LC0xNjM5NjYzNTQ5LC0xMzM4
-MjkzODIsLTI0NDc0ODI2LC01MTQ1Mjg3MjgsMTYzMDE5ODEzOC
-wxODAyMjMzMzgzLC0yMDUwOTM5NjAxLDEwNDI3MzIzODMsNTU5
-MTAzNTA5LDc4NDU1MTA2NywtMTM4OTgyMzA5NSw5NTc1NzYxMT
-EsLTI4Njk5ODI3OSwxMjUyMTA2MzUsNzQ2Njg3Mzk4LDE0MTIz
-NTk5NjJdfQ==
+eyJoaXN0b3J5IjpbMzM2ODY4MDM2LC0xMDA3MzEwMjY1LC0xNT
+c0ODIyMTM0LDQ2NjUyMzE3NywtMTYzOTY2MzU0OSwtMTMzODI5
+MzgyLC0yNDQ3NDgyNiwtNTE0NTI4NzI4LDE2MzAxOTgxMzgsMT
+gwMjIzMzM4MywtMjA1MDkzOTYwMSwxMDQyNzMyMzgzLDU1OTEw
+MzUwOSw3ODQ1NTEwNjcsLTEzODk4MjMwOTUsOTU3NTc2MTExLC
+0yODY5OTgyNzksMTI1MjEwNjM1LDc0NjY4NzM5OCwxNDEyMzU5
+OTYyXX0=
 -->
