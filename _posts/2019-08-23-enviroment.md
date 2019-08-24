@@ -56,7 +56,7 @@ C:\Python\Venv\NLP\Scripts>activate
 ```
 
 # jupyter lab 설치
-
+## jupyter lab의 설치
 설치 법에 대해 얘기하기 앞서, 내가 왜 jupyter lab을 선택했는지 기록해두려 한다.
 jupyter lab은 jupyter notebook을 기반으로 만들어진 것이어서 기본적인 jupyter notebook의 특성을 따른다.
 많은 사람들은 jupyter notebook을 선택함에 비해 내가 jupyter lab을 기본 환경으로 설정하려는 이유는 다음과 같은 장점이 있기 때문이다.
@@ -69,21 +69,20 @@ jupyter lab은 jupyter notebook을 기반으로 만들어진 것이어서 기본
 (NLP) C:\Python\Venv\NLP\Scripts> pip install jupyterlab
 ```
 
-  
-
 ## jupyter lab 바로가기 만들기
+한편, 아나콘다 없이 바로 jupyter lab을 설치하면 
 
 # Github 가입
 # GitKraken 설치
-
+# Stackedit 사용
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0MjI4NDg3NiwtNTI2MDY1MjY4LC0xMD
-A3MzEwMjY1LC0xNTc0ODIyMTM0LDQ2NjUyMzE3NywtMTYzOTY2
-MzU0OSwtMTMzODI5MzgyLC0yNDQ3NDgyNiwtNTE0NTI4NzI4LD
-E2MzAxOTgxMzgsMTgwMjIzMzM4MywtMjA1MDkzOTYwMSwxMDQy
-NzMyMzgzLDU1OTEwMzUwOSw3ODQ1NTEwNjcsLTEzODk4MjMwOT
-UsOTU3NTc2MTExLC0yODY5OTgyNzksMTI1MjEwNjM1LDc0NjY4
-NzM5OF19
+eyJoaXN0b3J5IjpbNjMxODA0NDY4LC01MjYwNjUyNjgsLTEwMD
+czMTAyNjUsLTE1NzQ4MjIxMzQsNDY2NTIzMTc3LC0xNjM5NjYz
+NTQ5LC0xMzM4MjkzODIsLTI0NDc0ODI2LC01MTQ1Mjg3MjgsMT
+YzMDE5ODEzOCwxODAyMjMzMzgzLC0yMDUwOTM5NjAxLDEwNDI3
+MzIzODMsNTU5MTAzNTA5LDc4NDU1MTA2NywtMTM4OTgyMzA5NS
+w5NTc1NzYxMTEsLTI4Njk5ODI3OSwxMjUyMTA2MzUsNzQ2Njg3
+Mzk4XX0=
 -->
