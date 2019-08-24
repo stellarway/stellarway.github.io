@@ -45,7 +45,17 @@ C:\Python> mkdir Venv
 C:\Python> cd Venv
 C:\Python\Venv> python -m venv NLP
 ```
+위에서 한 행동은 파이썬 설치 시 만든 'Python' 폴더에 접근하고,
+Venv 폴더를 cmd상에서 생성했으며,
+그곳에 접근하여
+python 의 명령어를 사용하여 'NLP'라는 이름의 가상환경을 만들어낸 것이다.
+여기서 'NLP'는 Venv 
+```
+C:\Python\Venv> cd Tensorflow\Scripts
+C:\Python\Venv\Tensorflow\Scripts>activate
 
+(Tensorflow) C:\Python\Venv\Tensorflow\Scripts>
+```
 
 # jupyter lab 설치
 > jupyter Notebook이 아닌 jupyter lab을 사용하는 이유
@@ -58,7 +68,7 @@ C:\Python\Venv> python -m venv NLP
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzMTY1OTE3OCw0NjY1MjMxNzcsLTE2Mz
+eyJoaXN0b3J5IjpbMTQzNjYwMjc0OSw0NjY1MjMxNzcsLTE2Mz
 k2NjM1NDksLTEzMzgyOTM4MiwtMjQ0NzQ4MjYsLTUxNDUyODcy
 OCwxNjMwMTk4MTM4LDE4MDIyMzMzODMsLTIwNTA5Mzk2MDEsMT
 A0MjczMjM4Myw1NTkxMDM1MDksNzg0NTUxMDY3LC0xMzg5ODIz
