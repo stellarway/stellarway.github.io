@@ -21,6 +21,7 @@ comments: true
 "Windows x86-64 executable installer" Version을 [다운로드](https://www.python.org/ftp/python/3.7.4/python-3.7.4-amd64.exe)  받은 후 실행하면 된다.  
 
 ![enter image description here](https://lh3.googleusercontent.com/J8qs6nLvOQsBQxQyTgzeRB1PopP1nyKO287uBT50yAbbXWz-30nNHPmb6GpNO5YTAy0k9FybOA9H=s800 "install page")
+
 *(혹시 나와 같은 환경을 구축하려는 사람이 있다면 위의 '다운로드' 버튼만 누르면 된다)*
 
 ## 가상환경 사용
@@ -37,9 +38,9 @@ comments: true
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzMDE5ODEzOCwxODAyMjMzMzgzLC0yMD
-UwOTM5NjAxLDEwNDI3MzIzODMsNTU5MTAzNTA5LDc4NDU1MTA2
-NywtMTM4OTgyMzA5NSw5NTc1NzYxMTEsLTI4Njk5ODI3OSwxMj
-UyMTA2MzUsNzQ2Njg3Mzk4LDE0MTIzNTk5NjIsLTI3NjM1ODA2
-MV19
+eyJoaXN0b3J5IjpbLTUxNDUyODcyOCwxNjMwMTk4MTM4LDE4MD
+IyMzMzODMsLTIwNTA5Mzk2MDEsMTA0MjczMjM4Myw1NTkxMDM1
+MDksNzg0NTUxMDY3LC0xMzg5ODIzMDk1LDk1NzU3NjExMSwtMj
+g2OTk4Mjc5LDEyNTIxMDYzNSw3NDY2ODczOTgsMTQxMjM1OTk2
+MiwtMjc2MzU4MDYxXX0=
 -->
