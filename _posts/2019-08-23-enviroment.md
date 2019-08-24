@@ -60,13 +60,18 @@ C:\Python\Venv\NLP\Scripts>activate
 ```
 
 # jupyter lab 설치
+
 설치 법에 대해 얘기하기 앞서, 내가 왜 jupyter lab을 선택했는지 기록해두려 한다.
 jupyter lab은 jupyter notebook을 기반으로 만들어진 것이어서 기본적인 jupyter notebook의 특성을 따른다.
 많은 사람들은 jupyter notebook을 선택함에 비해 내가 jupyter lab을 기본 환경으로 설정하려는 이유는 다음과 같은 장점이 있기 때문이다.
+
 > 1. 브라우징이 간편하다
 > 2. jupyter lab을 실행할 경우 마지막에 열었던 파일이 바로 실행된다.
 
-1에 관해서는, jupyter notebook과 달리 폴더트리가 바로 왼쪽에 떠있기 때문에 여러 코드를 참고할 간편하다. 많은 사람들이 jupyter notebook 을 사용하고 있지만 나는 위와 같은 이유 때문에 jupyter lab을 사용하고자 한다. jupyter lab
+1에 관해서는, jupyter notebook과 달리 폴더트리가 바로 왼쪽에 떠있기 때문에 여러 코드를 참고할 간편하다. 많은 사람들이 jupyter notebook 을 사용하고 있지만 나는 위와 같은 이유 때문에 jupyter lab을 사용하고자 한다. jupyter lab을 설치하는 것은 간단하다. 설치하고자 하는 가상환경으로 들어가 `pip install jupyter lab`을 타이핑해주면 된다.
+```
+(Tensorflow) C:\Python\Venv\Tensorflow\Scripts> pip install jupyterlab
+```
 
   
 ## jupyter lab 설치
@@ -78,7 +83,7 @@ jupyter lab은 jupyter notebook을 기반으로 만들어진 것이어서 기본
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1MDk2MjA2MCwtMTAwNzMxMDI2NSwtMT
+eyJoaXN0b3J5IjpbMTcyODMxNDU1NSwtMTAwNzMxMDI2NSwtMT
 U3NDgyMjEzNCw0NjY1MjMxNzcsLTE2Mzk2NjM1NDksLTEzMzgy
 OTM4MiwtMjQ0NzQ4MjYsLTUxNDUyODcyOCwxNjMwMTk4MTM4LD
 E4MDIyMzMzODMsLTIwNTA5Mzk2MDEsMTA0MjczMjM4Myw1NTkx
