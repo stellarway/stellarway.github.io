@@ -76,13 +76,16 @@ jupyter lab은 jupyter notebook을 기반으로 만들어진 것이어서 기본
 > C:\Python\Venv\NLP\Scripts
 
 그럼 'activate' 파일을 볼 수 있을 것이다. 
+![enter image description here](https://lh3.googleusercontent.com/yAKxaVOMRMZiEKJb886RoUAlFjIrGf6ePq4fvbr-3vrRgIhJ4mX4N2HW2wS-gp89tFS1bTu5ahxt)
+
 그것을 메모장으로 열어 맨 아랫쪽에 다음 두 줄을 추가해준다.
 ```
 cd C:\Python\Ground
 jupyter lab
 ```
-여기서 Ground는앞으로 jupyter lab을 통해 작업하는 파이썬 파일들이 저장될 곳이다.  
-~~(여담이지만 학원 등에서 배우며 만들었던 파일을 PlayGround, 개인적으로 따로 작업한 파일은 HomeGround에 저장을 해왔기 때문에 폴더 이름을 'Ground'로 정했다)~~
+위의 코드에서 Ground는앞으로 jupyter lab을 통해 작업하는 파이썬 파일들이 저장될 곳이다.  
+~~(여담이지만 학원 등에서 배우며 만들었던 파일을 Playground, 개인적으로 따로 작업한 파일은 HomeGround에 저장을 해왔기 때문에 폴더 이름을 'Ground'로 정했다)~~
+개인마다 마음에 드는 이름을 'Ground' 부분에 넣으면 된다.
 
 이제 바로가기를 만들어보자
 
@@ -93,11 +96,11 @@ jupyter lab
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwMTczOTk3MiwzOTk2MzAxMjUsNjMxOD
-A0NDY4LC01MjYwNjUyNjgsLTEwMDczMTAyNjUsLTE1NzQ4MjIx
-MzQsNDY2NTIzMTc3LC0xNjM5NjYzNTQ5LC0xMzM4MjkzODIsLT
-I0NDc0ODI2LC01MTQ1Mjg3MjgsMTYzMDE5ODEzOCwxODAyMjMz
-MzgzLC0yMDUwOTM5NjAxLDEwNDI3MzIzODMsNTU5MTAzNTA5LD
-c4NDU1MTA2NywtMTM4OTgyMzA5NSw5NTc1NzYxMTEsLTI4Njk5
-ODI3OV19
+eyJoaXN0b3J5IjpbNDg0NTc0NDAxLDM5OTYzMDEyNSw2MzE4MD
+Q0NjgsLTUyNjA2NTI2OCwtMTAwNzMxMDI2NSwtMTU3NDgyMjEz
+NCw0NjY1MjMxNzcsLTE2Mzk2NjM1NDksLTEzMzgyOTM4MiwtMj
+Q0NzQ4MjYsLTUxNDUyODcyOCwxNjMwMTk4MTM4LDE4MDIyMzMz
+ODMsLTIwNTA5Mzk2MDEsMTA0MjczMjM4Myw1NTkxMDM1MDksNz
+g0NTUxMDY3LC0xMzg5ODIzMDk1LDk1NzU3NjExMSwtMjg2OTk4
+Mjc5XX0=
 -->
