@@ -62,7 +62,7 @@ jupyter lab은 jupyter notebook을 기반으로 만들어진 것이어서 기본
 많은 사람들은 jupyter notebook을 선택함에 비해 내가 jupyter lab을 기본 환경으로 설정하려는 이유는 다음과 같은 장점이 있기 때문이다.
 
 > 1. 파일 브라우징이 간편하다 (폴더트리가 바로 왼쪽에 떠있어서 여러 코드를 참고하기에 간편하다)
-> 2. jupyter lab을 실행할 경우 마지막에 열었던 파일이 바로 실행된다.
+> 2. 마지막에 열었던 파일이 바로 실행된다.
 
   jupyter lab을 설치하는 것은 간단하다. 설치하고자 하는 가상환경으로 들어가 `pip install jupyterlab`을 타이핑해주면 된다.
 ```
@@ -84,11 +84,11 @@ jupyter lab은 jupyter notebook을 기반으로 만들어진 것이어서 기본
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk5NjMwMTI1LDYzMTgwNDQ2OCwtNTI2MD
-Y1MjY4LC0xMDA3MzEwMjY1LC0xNTc0ODIyMTM0LDQ2NjUyMzE3
-NywtMTYzOTY2MzU0OSwtMTMzODI5MzgyLC0yNDQ3NDgyNiwtNT
-E0NTI4NzI4LDE2MzAxOTgxMzgsMTgwMjIzMzM4MywtMjA1MDkz
-OTYwMSwxMDQyNzMyMzgzLDU1OTEwMzUwOSw3ODQ1NTEwNjcsLT
-EzODk4MjMwOTUsOTU3NTc2MTExLC0yODY5OTgyNzksMTI1MjEw
-NjM1XX0=
+eyJoaXN0b3J5IjpbLTE5OTA3OTM5ODUsMzk5NjMwMTI1LDYzMT
+gwNDQ2OCwtNTI2MDY1MjY4LC0xMDA3MzEwMjY1LC0xNTc0ODIy
+MTM0LDQ2NjUyMzE3NywtMTYzOTY2MzU0OSwtMTMzODI5MzgyLC
+0yNDQ3NDgyNiwtNTE0NTI4NzI4LDE2MzAxOTgxMzgsMTgwMjIz
+MzM4MywtMjA1MDkzOTYwMSwxMDQyNzMyMzgzLDU1OTEwMzUwOS
+w3ODQ1NTEwNjcsLTEzODk4MjMwOTUsOTU3NTc2MTExLC0yODY5
+OTgyNzldfQ==
 -->
