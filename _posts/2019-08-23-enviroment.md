@@ -15,7 +15,7 @@ comments: true
   
 하지만 실제로 NLP를 학습해보면 아나콘다에 없는 패키지를 **pip**(파이썬 관련 패키지 설치 툴)을 이용하여 깔아야 할 일이 많다. 즉, **어차피 아나콘다를 거치지 않는 것**이다. 사용하지 않는다면 용량도 큰 아나콘다를 굳이 유지할 필요가 없다.   
   
-이에 파이썬만 깔아서 개발 환경을 설정하고자 한다.
+> 이에 파이썬만 깔아서 개발 환경을 설정하고자 한다.
 
 ## Python 설치
 파이썬 홈페이지에서 [Downloads](https://www.python.org/downloads/windows/)로 들어가 [최신 Release](https://www.python.org/downloads/release/python-374/)가 무엇인지 확인한다. Python2와 Python3가 있는데, NLP를 하다보면 ML(머신러닝)을 돌려야하는 일이 종종 발생한다.  이에 TensorFlow가 Python3.7 버전과 호환이 되는 지 [확인](https://tensorflow.blog/2019/02/03/tensorflow-1-13-0-support-python-3-7/) 한 후 Python3.7 을 설치했다.
@@ -120,11 +120,11 @@ Git Kraken은 무료로 [다운로드](https://www.gitkraken.com/download/window
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTA2MTA5OTMsLTE5ODQxMDY3MzEsMT
-c1MDgwNzI3MywyMDAxOTc4MTg0LC0xNTI3OTkyNzk1LDM5OTYz
-MDEyNSw2MzE4MDQ0NjgsLTUyNjA2NTI2OCwtMTAwNzMxMDI2NS
-wtMTU3NDgyMjEzNCw0NjY1MjMxNzcsLTE2Mzk2NjM1NDksLTEz
-MzgyOTM4MiwtMjQ0NzQ4MjYsLTUxNDUyODcyOCwxNjMwMTk4MT
-M4LDE4MDIyMzMzODMsLTIwNTA5Mzk2MDEsMTA0MjczMjM4Myw1
-NTkxMDM1MDldfQ==
+eyJoaXN0b3J5IjpbLTgxMTkyMDcyMywtMTY5MDYxMDk5MywtMT
+k4NDEwNjczMSwxNzUwODA3MjczLDIwMDE5NzgxODQsLTE1Mjc5
+OTI3OTUsMzk5NjMwMTI1LDYzMTgwNDQ2OCwtNTI2MDY1MjY4LC
+0xMDA3MzEwMjY1LC0xNTc0ODIyMTM0LDQ2NjUyMzE3NywtMTYz
+OTY2MzU0OSwtMTMzODI5MzgyLC0yNDQ3NDgyNiwtNTE0NTI4Nz
+I4LDE2MzAxOTgxMzgsMTgwMjIzMzM4MywtMjA1MDkzOTYwMSwx
+MDQyNzMyMzgzXX0=
 -->
