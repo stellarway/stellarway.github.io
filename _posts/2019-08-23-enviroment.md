@@ -92,9 +92,10 @@ jupyter lab
 
 이제 바로 이용할 수도 있지만, 임시파일처럼 생긴 아이콘을 참을 수 없어 아이콘을 변경해주고 한다.  
 만들어 놓은 바로가기에서 속성을 눌러 들어가면 아이콘 변경을 할 수 있다.
-
-
-[https://convertio.co/kr/png-ico/](https://convertio.co/kr/png-ico/)
+![enter image description here](https://lh3.googleusercontent.com/gIPhuyCTs8FQ7B6_pluP8MCg3xJHwOeWm26j19SxRpVtHqQ1NP_Lr4kU6WZhTz_XxAGJ49chVQHu)
+아이콘 변경을 위해서는 아이콘이 필요하다.  
+구글링을 통해 원하는 이미지를 다운받는다. 나는 jupyter의 로고를 다운받았다.   
+아이콘으로 넣기 위해서는 [ico 형식의 파일로 변환](https://convertio.co/kr/png-ico/)을 해줘야 한다.
 
 
 # Github 가입
@@ -103,11 +104,11 @@ jupyter lab
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjA4NzM4ODYsLTE1Mjc5OTI3OTUsMz
-k5NjMwMTI1LDYzMTgwNDQ2OCwtNTI2MDY1MjY4LC0xMDA3MzEw
-MjY1LC0xNTc0ODIyMTM0LDQ2NjUyMzE3NywtMTYzOTY2MzU0OS
-wtMTMzODI5MzgyLC0yNDQ3NDgyNiwtNTE0NTI4NzI4LDE2MzAx
-OTgxMzgsMTgwMjIzMzM4MywtMjA1MDkzOTYwMSwxMDQyNzMyMz
-gzLDU1OTEwMzUwOSw3ODQ1NTEwNjcsLTEzODk4MjMwOTUsOTU3
-NTc2MTExXX0=
+eyJoaXN0b3J5IjpbLTU0MzgzMzUsLTE1Mjc5OTI3OTUsMzk5Nj
+MwMTI1LDYzMTgwNDQ2OCwtNTI2MDY1MjY4LC0xMDA3MzEwMjY1
+LC0xNTc0ODIyMTM0LDQ2NjUyMzE3NywtMTYzOTY2MzU0OSwtMT
+MzODI5MzgyLC0yNDQ3NDgyNiwtNTE0NTI4NzI4LDE2MzAxOTgx
+MzgsMTgwMjIzMzM4MywtMjA1MDkzOTYwMSwxMDQyNzMyMzgzLD
+U1OTEwMzUwOSw3ODQ1NTEwNjcsLTEzODk4MjMwOTUsOTU3NTc2
+MTExXX0=
 -->
