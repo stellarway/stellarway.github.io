@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A Full and Comprehensive Style Test(Korean ver.)"
-tags: [sample post, guide, style]
+tags: [sample post, guide]
 comments: true
 ---
 
@@ -113,5 +113,5 @@ comments: true
 
 이 문서는 [한글 Lorem Ipsum](http://guny.kr/stuff/klorem/)으로 생성되었습니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzQ0MDI0MjNdfQ==
+eyJoaXN0b3J5IjpbLTEzODgwNTAwMzBdfQ==
 -->
