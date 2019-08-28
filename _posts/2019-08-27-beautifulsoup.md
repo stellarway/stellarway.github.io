@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "크롤링(crawling)의 도구 1 - BeautifulSoup"
-tags: [scraping, crawling, study, beautifulsoup]
+tags: [study, crawling]
 comments: true
 ---
 크롤링은 데이터를 모으기 위한 첫번째 방법이다. 가장 필요한만큼 많은 방법이 존재한다.  
@@ -136,5 +136,5 @@ with open(filename, 'wb')as f:
 ```
 이렇게 하면 내가 지정한 폴더 경로에 이미지가 저장된다. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDc5MjU1MDhdfQ==
+eyJoaXN0b3J5IjpbLTE5ODAwMDI3ODFdfQ==
 -->
