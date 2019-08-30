@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "[NLP] 핵심 키워드 추출의 3가지 방법"
@@ -62,5 +61,5 @@ Luhn Summarize 절차는 다음과 같다.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxMjE5NDk3OV19
+eyJoaXN0b3J5IjpbLTg2NzAwMjk5XX0=
 -->
