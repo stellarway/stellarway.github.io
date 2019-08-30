@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "단어 임베딩 (Word Embedding)의 기본 개념"
@@ -41,5 +40,5 @@ comments: true
 
 다음 포스트에서는 워드 임베딩의 실제적인 방법에 대해 알아보겠다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODUyNzc4Nl19
+eyJoaXN0b3J5IjpbNDIzMDA4NzY0XX0=
 -->
