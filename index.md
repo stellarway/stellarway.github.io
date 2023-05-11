@@ -7,7 +7,7 @@ layout: default
 <hr class='section'>
 
 
-<img class="profile-picture" src="asset/cat-profile.png">
+<img class="profile-picture" src="asset/cat-profile_34.png">
 
 Hi, My name is Wonhee GO.  
 I'm a good questioner as an NLP researcher.  
