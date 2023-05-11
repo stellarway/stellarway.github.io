@@ -1,15 +1,19 @@
-title: Researcher
+title: Wonhee GO, NLP Researcher
+head_title: 🧭
 url: "https://stellarway.github.io"
 baseurl: ""
 
 remote_theme: ankitsultana/researcher@gem
 markdown: kramdown
 
+favicon: true
+favicon_location: ./asset/paw.png
+
 tracking_id: #
 
 footer: yes
-footer_url: "https://github.com/ankitsultana"
-footer_text: "Page design by Ankit Sultana"
+theme_url: ""
+theme_text: ""
 
 sass:
     style: compressed
@@ -18,7 +22,9 @@ sass:
 nav:
  - name: "About"
    link: "/"
+#  - name: "Profile"
+#    link: "/profile/"
 #  - name: "Resume"
-  #  link: "resume.pdf"
-#  - name: "Contact"
-  #  link: "contact"
+#    link: "resume.pdf"
+ - name: "Contact"
+   link: "contact"

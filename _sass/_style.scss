@@ -74,35 +74,6 @@ hr {
     border-bottom: 1px solid rgba(255, 255, 255, 0.3);
 }
 
-
-/*
- * Basic
- */
-
-html {
-    height: 100%;
-    margin: 0;
-    padding: 0;
-}
-body {
-    margin: 0;
-    font-family: "Inconsolata";
-    height: 100%;
-}
-a {
-    text-decoration: none;
-    color: $accent;
-}
-a:hover {
-    text-decoration: underline;
-}
-hr {
-    border: 0;
-    height: 0;
-    border-top: 1px solid rgba(0, 0, 0, 0.1);
-    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
-}
-
 /*
  * Navbar
  */
@@ -112,6 +83,7 @@ hr {
     color: #272727;
     display: inline-block;
 }
+
 .navbar {
     padding: 50px 0 50px 0;
 }
@@ -146,7 +118,9 @@ hr {
 .wrapper {
     min-height: 100%;
 }
-
+.footer-wrapper {
+    min-height: 5em;
+}
 /* Institute Image */
 
 #ins-logo {
@@ -204,3 +178,4 @@ hr {
 
 @import "typography";
 @import "tables";
+@import "404";

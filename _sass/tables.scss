@@ -4,8 +4,23 @@ table {
     width: 100%;
     padding: 0;
 }
+/* 내가 추가한 부분 */
+td, th {
+    border: none;
+    padding: 10px;
+  }
+  td:nth-child(1),
+  th:nth-child(1) {
+    border-right: 1px solid black;
+  }
+  
+th {
+    border-bottom: 1px solid black;
+}  
+/* 내가 추가한 부분 */
+
 table tr {
-    border-top: 1px solid #cccccc;
+    // border-top: 1px solid #cccccc;
     background-color: white;
     margin: 0;
     padding: 0;
@@ -15,13 +30,13 @@ table tr:nth-child(2n) {
 }
 table tr th {
     font-weight: bold;
-    border: 1px solid #cccccc;
+    // border: 1px solid #cccccc;
     text-align: left;
     margin: 0;
     padding: 6px 13px;
 }
 table tr td {
-    border: 1px solid #cccccc;
+    // border: 1px solid #cccccc;
     text-align: left;
     margin: 0;
     padding: 6px 13px;

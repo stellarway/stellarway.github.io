@@ -3,11 +3,11 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Email   [whgo.nlp@gmail.com](mailto:whgo.nlp@gmail.com)
+* Github  [@stellarway](https://github.com/stellarway)
+* Blog    [stellarway.tistory.com/](https://stellarway.tistory.com/)
 
-* Phone: [+91-123123](tel:+91-123123)
-
----
+<!-- ---
 
 ## Mailing Address
 
@@ -23,4 +23,4 @@ is_contact: true
 
 1. [Facebook](#)
 2. [Twitter](#)
-3. [Google+](#)
+3. [Google+](#) -->
