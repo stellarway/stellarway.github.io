@@ -1,7 +1,33 @@
+<!--Script for Updating date-->
 <script>
     // 현재 날짜와 시간을 생성합니다.
     var currentDate = new Date();
 
     // HTML 문서 내의 'lastUpdated' 요소를 찾아서 현재 날짜와 시간을 할당합니다.
     document.getElementById("lastUpdated").innerHTML = currentDate.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' });
+</script>
+
+<!--Script for Scroll to Top-->
+<div id="topButton" style="cursor: pointer"><span class="material-symbols-outlined" id="topButtonImg">
+    keyboard_arrow_up
+    </span></div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script>
+$(document).ready(function() {
+
+    $(window).scroll(function() {
+        // top button controll
+        if ($(this).scrollTop() > 500) {
+            $('#topButton').fadeIn();
+        } else {
+            $('#topButton').fadeOut();
+        }
+    });
+
+    $("#topButtonImg").click(function() {
+        $('html, body').animate({scrollTop:0}, '300');
+    });
+
+});
 </script>
