@@ -19,7 +19,7 @@ Follow [stellarway](https://github.com/stellarway), and you will find a 🌟stel
 
 ---
 
-### About me
+#### About me
 
 Allow me to introduce myself by highlighting three of my key strengths:  
 **Ideation**, **strategic thinking**, and **maximizing results**.
@@ -38,7 +38,7 @@ I would like to share reliable CliftonStrengths report(<a href="asset/signature-
 ## 😆 Research Interest
 <hr class='section'>
 
-### On my work
+#### On my work
 
 <a class="tag" href="#">NLP</a>
 <a class="tag" href="#">MultiModal</a>
@@ -60,7 +60,7 @@ I would like to share reliable CliftonStrengths report(<a href="asset/signature-
 
 ---
 
-### Personal focus
+#### Personal focus
 <a class="tag" href="#">NLP</a>
 <a class="tag" href="#">AI_ethics</a>
 <a class="tag" href="#">MultiModal</a>
@@ -112,7 +112,7 @@ Date|Project
 ## 🎓 Education
 <hr class='section'>
 
-### University
+#### University
 <span class="date-info">2010.03.01 - 2016.02.29</span>&emsp;<span class="location">Seoul, South Korea</span><br>
 **Ewha womans university**<a class="material-symbols-outlined outlink" target="_blank" href="http://www.ewha.ac.kr/ewhaen/index.do">call_made</a>&emsp;Chemistry & Nanoscience(BS)&emsp;3.34/4.3
 <br>
@@ -120,7 +120,7 @@ Date|Project
 
 ---
 
-### Training
+#### Training
 <span class="date-info">2019.05.23 - 2019.11.13</span>&emsp;<span class="location">Seoul, South Korea</span><br>
 **인공지능 자연어처리(NLP) 기반 기업 데이터 분석 개발자 양성 과정**<a class="material-symbols-outlined outlink" target="_blank" href="https://onoffmix.com/event/177892">call_made</a>  
 - 사업명 : 혁신성장 청년인재 집중양성 
@@ -144,7 +144,7 @@ Date|Project
 ## 🔤 Language Skills
 <hr class='section'>
 
-### Natural Languages
+#### Natural Languages
 
 Language|Reading|Writing|Conversation
 --------|------------|-------|-------
@@ -165,7 +165,8 @@ Guideline for Levels of language proficiency is below:
 ---
 
 <br>
-### Langauage
+
+#### Langauage
 
 Language|Reading|Writing|Conversation
 --------|------------|-------|-------
@@ -204,7 +205,7 @@ Language|Reading|Writing|Conversation
 ## 🤓 Teaching Experience
 <hr class='section'>
 
-### Guest lecture
+#### Guest lecture
 <span class="date-info">2022.07.13 - 2022.07.18</span><br>
 **한국외국어대학교 데이터청년캠퍼스 | 자연어처리 기반 딥러닝기술 융합과정 강의**<a class="material-symbols-outlined outlink" target="_blank" href="https://dataonair.or.kr/bigjob/company_info/">call_made</a><span class="subtitle">(총 32시간/4회차)</span>
 <br><br>
@@ -248,7 +249,7 @@ Language|Reading|Writing|Conversation
 ---
 <br>
 
-### Mentoring
+#### Mentoring
 <span class="date-info">2022.08.09 - 2022.08.25</span><br>
 **한국외국어대학교 데이터청년캠퍼스 | 자연어처리 기반 딥러닝기술 융합과정 멘토링**<a class="material-symbols-outlined outlink" target="_blank" href="https://dataonair.or.kr/bigjob/company_info/">call_made</a><span class="subtitle">(총 10회차)</span>
 <br><br>
