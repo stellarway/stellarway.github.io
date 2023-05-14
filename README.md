@@ -1,2 +1,2 @@
 # stellarway.github.io
-This page is for introducing myself. Come and discover stellarway to your desired destination🌟
+This page is for introducing stellarway. Come and get a stellar way to your desired destination🌟

@@ -146,10 +146,10 @@ Date|Project
 
 ### Natural Languages
 
-Language|Conversation|Writing|Reading
+Language|Reading|Writing|Conversation
 --------|------------|-------|-------
 **Korean**|Native|Native|Native
-**English**|Basic|Intermediate|Advanced
+**English**|Advanced|Intermediate|Basic
 **Japanese**|Novice|Novice|Novice
 
 <br>
@@ -161,13 +161,13 @@ Guideline for Levels of language proficiency is below:
 4. <b>Advanced</b>: Can handle complex language tasks and understand professional topics, express ideas and opinions fluently, and understand and summarize complex written materials.<br>
 5. <b>Fluent/Native</b>: Can communicate effectively and accurately in all situations, understand and use idiomatic expressions and cultural references, and read and write complex materials with ease.
 </p>
-<br>
 
 ---
 
+<br>
 ### Langauage
 
-Language|Conversation|Writing|Reading
+Language|Reading|Writing|Conversation
 --------|------------|-------|-------
 **Python**|Fluent|Fluent|Fluent
 
@@ -207,37 +207,43 @@ Language|Conversation|Writing|Reading
 ### Guest lecture
 <span class="date-info">2022.07.13 - 2022.07.18</span><br>
 **한국외국어대학교 데이터청년캠퍼스 | 자연어처리 기반 딥러닝기술 융합과정 강의**<a class="material-symbols-outlined outlink" target="_blank" href="https://dataonair.or.kr/bigjob/company_info/">call_made</a><span class="subtitle">(총 32시간/4회차)</span>
-- 주요역할 : 기본적인 언어 모델 구조와 Transformer 강의 및 Pytorch 기반 코드 실습 진행
-- 주최주관 : 과학기술정보통신부/ 한국데이터산업진흥원
-- 교육기관 : 한국외국어대학교  
-- 과정기간 : 2022.06.27 - 2022.08.31
-- 사업명 : 데이터 청년 캠퍼스 
-- 과정명 : 자연어처리 기반 딥러닝기술 융합과정
-- 대상자 : 데이터 관련 전공 대학생(3~4학년) 혹은 비전공 석박사 대학원생 
-  
+<br><br>
+*기본적인 언어 모델 구조와 Transformer 강의 및 Pytorch 기반 코드 실습 진행*
+
+사업명 | 데이터 청년 캠퍼스 
+과정명 | 자연어처리 기반 딥러닝기술 융합과정
+주최주관 | 과학기술정보통신부/ 한국데이터산업진흥원
+교육기관 | 한국외국어대학교  
+과정기간 | 2022.06.27 - 2022.08.31
+대상자 | 데이터 관련 전공 대학생(3~4학년) 혹은 비전공 석박사 대학원생 
+
 ---
 
 <span class="date-info">2021.07.06 - 2021.07.20</span><br>
 **한국외국어대학교 데이터청년캠퍼스 | 자연어처리 기반 딥러닝기술 융합과정 중 현업 전문가 실무 특강**<a class="material-symbols-outlined outlink" target="_blank" href="https://dataonair.or.kr/bigjob/company_info/">call_made</a><span class="subtitle">(총 5시간/2회차)</span>
-- 주요역할 : 자연어처리 실무 이해, Transformer 개론 및 기계번역 모델링 실습
-- 주최주관 : 과학기술정보통신부/ 한국데이터산업진흥원
-- 교육기관 : 한국외국어대학교  
-- 과정기간 : 2021.06.28 - 2021.08.31
-- 사업명 : 데이터 청년 캠퍼스 
-- 과정명 : 자연어처리 기반 딥러닝기술 융합과정
-- 대상자 : 데이터 관련 전공 대학생(3~4학년) 혹은 비전공 석박사 대학원생 (외대생 58명/ 타대생 18명, 총 75명)
+<br><br>
+*자연어처리 실무 이해, Transformer 개론 및 기계번역 모델링 실습*
+
+사업명 | 데이터 청년 캠퍼스 
+과정명 | 자연어처리 기반 딥러닝기술 융합과정
+주최주관 | 과학기술정보통신부/ 한국데이터산업진흥원
+교육기관 | 한국외국어대학교  
+과정기간 | 2021.06.28 - 2021.08.31
+대상자 | 데이터 관련 전공 대학생(3~4학년) 혹은 비전공 석박사 대학원생<br><span class="subtitle">외대생 58명/ 타대생 18명, 총 75명</span>
   
 ---
 
 <span class="date-info">2021.05.29 - 2021.07.10</span><br>
 **혁신성장 청년인재 집중양성 | 인공지능 자연어처리[NLP]기반 기업 데이터 분석 과정 특강**<a class="material-symbols-outlined outlink" target="_blank" href="https://www.multicampus.com/em/enrolment/courseDetai?p_menu=NzUjU1VC&p_gubun=Qw==&corsCd=FA006N">call_made</a><span class="subtitle">(총 3시간/2회차)</span>
-- 주요역할 : 포트폴리오 작성법, Transformer 개론 및 기계번역 모델링 실습
-- 주최주관 : 과학기술정보통신부/ 정보통신기획평가원(IITP)  
-- 교육기관 : 삼성 계열 기업교육 전문 기업 멀티캠퍼스
-- 과정기간 : 2021.05.10 - 2021.11.03
-- 사업명 : 혁신성장 청년인재 집중양성 
-- 과정명 : 인공지능 자연어처리[NLP]기반 기업 데이터 분석
-- 대상자 : 4년제 대학교 졸업자 혹은 졸업 예정자
+<br><br>
+*포트폴리오 작성법, Transformer 개론 및 기계번역 모델링 실습*
+
+사업명 | 혁신성장 청년인재 집중양성 
+과정명 | 인공지능 자연어처리[NLP]기반 기업 데이터 분석
+주최주관 | 과학기술정보통신부/ 정보통신기획평가원(IITP)  
+교육기관 | 삼성 계열 기업교육 전문 기업 멀티캠퍼스
+과정기간 | 2021.05.10 - 2021.11.03
+대상자 | 4년제 대학교 졸업자 혹은 졸업 예정자
 
 ---
 <br>
@@ -245,48 +251,56 @@ Language|Conversation|Writing|Reading
 ### Mentoring
 <span class="date-info">2022.08.09 - 2022.08.25</span><br>
 **한국외국어대학교 데이터청년캠퍼스 | 자연어처리 기반 딥러닝기술 융합과정 멘토링**<a class="material-symbols-outlined outlink" target="_blank" href="https://dataonair.or.kr/bigjob/company_info/">call_made</a><span class="subtitle">(총 10회차)</span>
-- 주요역할 : 프로젝트 멘토링 및 기술 멘토링
-- 주최주관 : 과학기술정보통신부/ 한국데이터산업진흥원
-- 교육기관 : 한국외국어대학교  
-- 과정기간 : 2021.06.27 - 2021.08.31
-- 사업명 : 데이터 청년 캠퍼스 
-- 과정명 : 자연어처리 기반 딥러닝기술 융합과정
-- 대상자 : 데이터 관련 전공 대학생(3~4학년) 혹은 비전공 석박사 대학원생 
+<br><br>
+*프로젝트 멘토링 및 기술 멘토링*
+
+사업명 | 데이터 청년 캠퍼스 
+과정명 | 자연어처리 기반 딥러닝기술 융합과정
+주최주관 | 과학기술정보통신부/ 한국데이터산업진흥원
+교육기관 | 한국외국어대학교  
+과정기간 | 2021.06.27 - 2021.08.31
+대상자 | 데이터 관련 전공 대학생(3~4학년) 혹은 비전공 석박사 대학원생 
   
 ---
 
 <span class="date-info">2022.04.30 - 2022.06.04</span><br>
 **K-Digital Training | 서비스 산업 데이터를 활용한 빅데이터 분석 과정 멘토링**<a class="material-symbols-outlined outlink" target="_blank" href="/asset/KDT2021_multicampus.pdf">call_made</a><span class="subtitle">(총 3회차)</span>
-- 주요역할 : 프로젝트 멘토링, 기술 멘토링 및 커리어 설계 가이드
-- 주최주관 : 고용노동부  
-- 교육기관 : 삼성 계열 기업교육 전문 기업 멀티캠퍼스
-- 과정기간 : 2021.01.03 - 2021.06.10
-- 사업명 : K-Digital Training(첨단산업 디지털 핵심 실무인재 양성훈련)  
-- 과정명 : 서비스 산업 데이터를 활용한 빅데이터 분석
+<br><br>
+*프로젝트 멘토링, 기술 멘토링 및 커리어 설계 가이드*
+
+사업명 | K-Digital Training(첨단산업 디지털 핵심 실무인재 양성훈련)  
+과정명 | 서비스 산업 데이터를 활용한 빅데이터 분석
+주최주관 | 고용노동부  
+교육기관 | 삼성 계열 기업교육 전문 기업 멀티캠퍼스
+과정기간 | 2021.01.03 - 2021.06.10
 
 ---
 
 <span class="date-info">2021.08.09 - 2021.08.27</span><br>
 **한국외국어대학교 데이터청년캠퍼스 | 자연어처리 기반 딥러닝기술 융합과정 멘토링**<a class="material-symbols-outlined outlink" target="_blank" href="https://dataonair.or.kr/bigjob/company_info/">call_made</a><span class="subtitle">(총 4회차)</span>
-- 주요역할 : 프로젝트 멘토링 및 기술 멘토링
-- 주최주관 : 과학기술정보통신부/ 한국데이터산업진흥원
-- 교육기관 : 한국외국어대학교  
-- 과정기간 : 2021.06.28 - 2021.08.31
-- 사업명 : 데이터 청년 캠퍼스 
-- 과정명 : 자연어처리 기반 딥러닝기술 융합과정
-- 대상자 : 데이터 관련 전공 대학생(3~4학년) 혹은 비전공 석박사 대학원생 (외대생 58명/ 타대생 18명, 총 75명)
+<br><br>
+*프로젝트 멘토링 및 기술 멘토링*
+
+사업명 | 데이터 청년 캠퍼스 
+과정명 | 자연어처리 기반 딥러닝기술 융합과정
+주최주관 | 과학기술정보통신부/ 한국데이터산업진흥원
+교육기관 | 한국외국어대학교  
+과정기간 | 2021.06.28 - 2021.08.31
+대상자 | 데이터 관련 전공 대학생(3~4학년) 혹은 비전공 석박사 대학원생<br><span class="subtitle">외대생 58명/ 타대생 18명, 총 75명</span>
   
 ---
 
 <span class="date-info">2021.05.29 - 2021.10.30</span><br>
 **혁신성장 청년인재 집중양성 | 인공지능 자연어처리[NLP]기반 기업 데이터 분석 과정 멘토링**<a class="material-symbols-outlined outlink" target="_blank" href="https://www.multicampus.com/em/enrolment/courseDetai?p_menu=NzUjU1VC&p_gubun=Qw==&corsCd=FA006N">call_made</a><span class="subtitle">(총 12회차)</span>
-- 주요역할 : 프로젝트 멘토링, 기술 멘토링, 현업 인사이트 공유 및 진로 상담
-- 주최주관 : 과학기술정보통신부/ 정보통신기획평가원(IITP)  
-- 교육기관 : 삼성 계열 기업교육 전문 기업 멀티캠퍼스
-- 과정기간 : 2021.05.10 - 2021.11.03
-- 사업명 : 혁신성장 청년인재 집중양성 
-- 과정명 : 인공지능 자연어처리[NLP]기반 기업 데이터 분석
-- 대상자 : 4년제 대학교 졸업자 혹은 졸업 예정자
+<br><br>
+*프로젝트 멘토링, 기술 멘토링, 현업 인사이트 공유 및 진로 상담*
+
+사업명 | 혁신성장 청년인재 집중양성 
+과정명 | 인공지능 자연어처리[NLP]기반 기업 데이터 분석
+주최주관 | 과학기술정보통신부/ 정보통신기획평가원(IITP)  
+교육기관 | 삼성 계열 기업교육 전문 기업 멀티캠퍼스
+과정기간 | 2021.05.10 - 2021.11.03
+대상자 | 4년제 대학교 졸업자 혹은 졸업 예정자
 
 <br>
 <br>
