@@ -9,11 +9,11 @@ layout: default
 <img class="profile-picture" src="asset/cat-profile_34.png">
 
 Hi, My  name is Wonhee GO.  
-I'm a good questioner as an NLP researcher.  
+As an NLP researcher, I am a good questioner.  
 
 With my deep interest in the field of NLP, I am delighted to continuously strive to devise effective strategies and develop techniques that enhance the quality of my work output. 
 
-Follow [stellarway](https://github.com/stellarway), and you will find a 🌟stellar way🌟 to reach your destination!
+Follow [stellarway](https://github.com/stellarway), and you will find a stellar way to reach your destination!🌟
 <br>
 <br>
 
