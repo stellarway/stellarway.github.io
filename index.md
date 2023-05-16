@@ -62,9 +62,10 @@ I would like to share reliable CliftonStrengths report(<a href="asset/signature-
 
 #### Personal focus
 <a class="tag" href="#">NLP</a>
-<a class="tag" href="#">AI_ethics</a>
+<a class="tag" href="#">AIethics</a>
 <a class="tag" href="#">MultiModal</a>
 <a class="tag" href="#">verbalNLP</a>
+<a class="tag" href="#">TechnicalWriting</a>
 
 
 
@@ -250,6 +251,22 @@ Language|Reading|Writing|Conversation
 <br>
 
 #### Mentoring
+
+
+<span class="date-info">2022.10.11 - 2022.12.30</span><br>
+**트위그팜 현업 연구프로젝트 현장실습 | SOL프로젝트 3기**
+<br><br>
+*프로젝트 멘토링 및 기술 멘토링*  
+산출물 : [구어체를 위한 NER 모델](https://github.com/twigfarm/letr-sol-NERSOTA)  
+
+사업명 | 트위그팜 현업 연구프로젝트 현장실습
+과정명 | SOL프로젝트
+주최주관 | (주)트위그팜
+과정기간 | 2021.08.04 - 2021.10.31
+대상자 | 2021.10.04 - 2021.12.31
+
+---
+
 <span class="date-info">2022.08.09 - 2022.08.25</span><br>
 **한국외국어대학교 데이터청년캠퍼스 | 자연어처리 기반 딥러닝기술 융합과정 멘토링**<a class="material-symbols-outlined outlink" target="_blank" href="https://dataonair.or.kr/bigjob/company_info/">call_made</a><span class="subtitle">(총 10회차)</span>
 <br><br>
@@ -277,6 +294,21 @@ Language|Reading|Writing|Conversation
 
 ---
 
+<span class="date-info">2021.10.04 - 2021.12.31</span><br>
+**트위그팜 현업 연구프로젝트 현장실습 | SOL프로젝트 2기**<a class="material-symbols-outlined outlink" target="_blank" href="https://www.letr.ai/blog/story-20220121">call_made</a>
+<br><br>
+*프로젝트 멘토링, 기술 멘토링 및 모델 검증*  
+산출물 : [번역기 품질 평가](https://github.com/twigfarm/letr-sol-mt-eval)  
+
+사업명 | 트위그팜 현업 연구프로젝트 현장실습
+과정명 | SOL프로젝트
+주최주관 | (주)트위그팜
+과정기간 | 2021.08.04 - 2021.10.31
+대상자 | 2021.10.04 - 2021.12.31
+
+
+---
+
 <span class="date-info">2021.08.09 - 2021.08.27</span><br>
 **한국외국어대학교 데이터청년캠퍼스 | 자연어처리 기반 딥러닝기술 융합과정 멘토링**<a class="material-symbols-outlined outlink" target="_blank" href="https://dataonair.or.kr/bigjob/company_info/">call_made</a><span class="subtitle">(총 4회차)</span>
 <br><br>
@@ -289,6 +321,20 @@ Language|Reading|Writing|Conversation
 과정기간 | 2021.06.28 - 2021.08.31
 대상자 | 데이터 관련 전공 대학생(3~4학년) 혹은 비전공 석박사 대학원생<br><span class="subtitle">외대생 58명/ 타대생 18명, 총 75명</span>
   
+---
+
+<span class="date-info">2021.08.04 - 2021.10.31</span><br>
+**트위그팜 현업 연구프로젝트 현장실습 | SOL프로젝트 1기**<a class="material-symbols-outlined outlink" target="_blank" href="https://www.letr.ai/blog/story-20211126-1">call_made</a>
+<br><br>
+*프로젝트 멘토링 및 기술 멘토링*  
+산출물 : [욕설혐오표현 분류](https://github.com/twigfarm/letr-sol-profanity-filter)  
+
+사업명 | 트위그팜 현업 연구프로젝트 현장실습
+과정명 | SOL프로젝트
+주최주관 | (주)트위그팜
+과정기간 | 2021.08.04 - 2021.10.31
+대상자 | 자연어처리 관련 교육 프로그램을 수료했거나 수료 예정자
+
 ---
 
 <span class="date-info">2021.05.29 - 2021.10.30</span><br>

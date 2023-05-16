@@ -3,11 +3,30 @@ layout: default
 ---
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0" />
 
+*This page is tailored for Korean users.  
+If you're seeking information in English, please visit the '<a href="/">About</a>' page.*
 
-## 👀 Overview
+## 🎲 Three Aspects to Focus
 <hr class='section'>
 
-For further details, please proceed to the below section.
+> <span class="emphasis">Data</span>&emsp;다국어 자연어 데이터(한영중일) 처리 경험 보유.  
+&emsp;&emsp;&emsp; 최대 1,200만여 쌍의 문장 쌍 처리 경험 있음.
+> 
+> <span class="emphasis">Model</span>&emsp;트랜스포머 기반의 NMT와 PLM 기반의 downstream task를 위한 LM 훈련 경험 다수.  
+>&emsp;&emsp;&emsp;&emsp;여러 GPU로의 분산 훈련 경험 보유.
+>
+> <span class="emphasis">Recently</span>&emsp;번역문 품질 평가(QE) 관련 논문으로 우수논문상 수상 (<a href="asset/최종본_TwiQE_한영영한_번역_병렬_말뭉치_품질_예측.pdf">**paper**</a>)  
+> <span class='subtitle'>→ 과기부와 NIA에서 개최한 ‘2022 AI 데이터 품질 개선 오픈랩 프로그램’ 우수논문상 수상  
+> → 한국정보과학회가 주관인 2022 한국소프트웨어종합학술대회(KSC2022)에 초청 받아 Oral 세션 참가  
+> → 정보과학회 컴퓨팅의 실제 논문지(KTCP)에 초청 논문으로 제출, 1차 심사 중인 상태임  
+> → "번역 품질 평가 장치 및 방법" 특허 출원 (출원번호: 1020220178652)</span>
+
+
+
+## 👀 Summary
+<hr class='section'>
+
+For further details, please proceed to the below section<span class="subtitle">(w. 🌿 emoji)</span>.
 <br>
 <br>
 
@@ -275,8 +294,7 @@ Role | 원천 데이터 정제
 
 ---
 
-### NER 리서치 및 데이터 구축
-<a class="material-symbols-outlined outlink" target="_blank" href="https://www.letr.ai/blog/tech-20210723">call_made</a> 
+### NER 리서치 및 데이터 구축<a class="material-symbols-outlined outlink" target="_blank" href="https://www.letr.ai/blog/tech-20210723">call_made</a> 
 <p class="project_date">2020.09.17 - 2021.04.24</p>
 <span class="tag">NER</span>
 <span class="tag">data</span>
