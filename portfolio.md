@@ -15,7 +15,7 @@ If you're seeking information in English, please visit the '<a href="/">About</a
 > <span class="emphasis">Model</span>&emsp;트랜스포머 기반의 NMT와 PLM 기반의 downstream task를 위한 LM 훈련 경험 다수.  
 >&emsp;&emsp;&emsp;&emsp;여러 GPU로의 분산 훈련 경험 보유.
 >
-> <span class="emphasis">Recently</span>&emsp;번역문 품질 평가(QE) 관련 논문으로 우수논문상 수상 (<a href="asset/최종본_TwiQE_한영영한_번역_병렬_말뭉치_품질_예측.pdf">**paper**</a>)  
+> <span class="emphasis">Recently</span>&emsp;번역문 품질 평가(QE) 관련 논문으로 우수논문상 수상 (<a href="asset/TwiQE.pdf">**paper**</a>)  
 > <span class='subtitle'>→ 과기부와 NIA에서 개최한 ‘2022 AI 데이터 품질 개선 오픈랩 프로그램’ 우수논문상 수상  
 > → 한국정보과학회가 주관인 2022 한국소프트웨어종합학술대회(KSC2022)에 초청 받아 Oral 세션 참가  
 > → 정보과학회 컴퓨팅의 실제 논문지(KTCP)에 초청 논문으로 제출, 1차 심사 중인 상태임  
