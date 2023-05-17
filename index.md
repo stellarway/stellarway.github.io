@@ -115,7 +115,7 @@ Date|Project
 
 #### University
 <span class="date-info">2010.03.01 - 2016.02.29</span>&emsp;<span class="location">Seoul, South Korea</span><br>
-**Ewha womans university**<a class="material-symbols-outlined outlink" target="_blank" href="http://www.ewha.ac.kr/ewhaen/index.do">call_made</a>&emsp;Chemistry & Nanoscience(BS)&emsp;3.34/4.3
+**Ewha womans university**<a class="material-symbols-outlined outlink" target="_blank" href="http://www.ewha.ac.kr/ewhaen/index.do">call_made</a>&emsp;Chemistry & Nanoscience(BS)&emsp;3.34/4.3 (3.64/4.5)
 <br>
 <br>
 
@@ -147,11 +147,11 @@ Date|Project
 
 #### Natural Languages
 
-Language|Reading|Writing|Conversation
---------|------------|-------|-------
-**Korean**|Native|Native|Native
-**English**|Advanced|Intermediate|Basic
-**Japanese**|Novice|Novice|Novice
+Language|Reading|Writing|Speaking|Test(score)
+--------|-------|-------|--------|---
+**Korean**|Native|Native|Native|KBS한국어능력(2-)<br><span class="subtitle">2020.05.27</span>
+**English**|Advanced|Intermediate|Basic|TOEFL(90)<br><span class="subtitle">2019.05.11</span>
+**Japanese**|Novice|Novice|Novice|JLPT(N5)<br><span class="subtitle">2022.01.13</span>
 
 <br>
 Guideline for Levels of language proficiency is below:

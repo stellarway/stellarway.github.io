@@ -16,12 +16,12 @@ If you're seeking information in English, please visit the '<a href="/">About</a
 >&emsp;&emsp;&emsp;&emsp;여러 GPU로의 분산 훈련 경험 보유.
 >
 > <span class="emphasis">Recently</span>&emsp;번역문 품질 평가(QE) 관련 논문으로 우수논문상 수상 (<a href="asset/TwiQE.pdf">**paper**</a>)  
-> <span class='subtitle'>→ 과기부와 NIA에서 개최한 ‘2022 AI 데이터 품질 개선 오픈랩 프로그램’ 우수논문상 수상  
-> → 한국정보과학회가 주관인 2022 한국소프트웨어종합학술대회(KSC2022)에 초청 받아 Oral 세션 참가  
+> <span class='subtitle'>→ 과기부와 NIA에서 개최한 ‘2022 AI 데이터 품질 개선 오픈랩 프로그램’ 챌린지에서 우수논문상 수상  
+> → 한국정보과학회가 주관인 2022 한국소프트웨어종합학술대회(KSC2022)에 초청 받아 Poster 세션과 Oral 세션 참가  
 > → 정보과학회 컴퓨팅의 실제 논문지(KTCP)에 초청 논문으로 제출, 1차 심사 중인 상태임  
 > → "번역 품질 평가 장치 및 방법" 특허 출원 (출원번호: 1020220178652)</span>
 
-
+<br>
 
 ## 👀 Summary
 <hr class='section'>
@@ -32,19 +32,19 @@ For further details, please proceed to the below section<span class="subtitle">(
 
 Date|Project
 ----|-------
-2023.01.11 - 2023.05.04 | 멀티모달 기반 웹툰 전용 번역기 연구 및 웹툰 병렬 데이터
-2022.08.08 - 2022.12.21 | TwiQE: 한영/영한 번역 병렬 말뭉치 품질 예측 모델 구축 및 적용 (우수 논문 수상)
-2022.04.27 - 2022.05.18 | 용어 추출기 개발
-2022.02.10 - 2022.05.23 | 인공지능(AI) 학습용 데이터 구축 사업 ‘한영 구어체 및 기술과학 번역 말뭉치’구축 및 ‘방송 및 전문분야 다국어 번역 말뭉치’ 구축
-2021.12.29 - 2022.01.17 | 텍스트 문장 비식별화 모델 개발
-2021.07.13 - 2022.02.07 | NER 모델 개발 및 데이터 구축
-2021.06.15 - 2021.09.27 | TTA 글로벌 사실표준화기구 정보 제공 시스템 구축 용역
-2020.11.05 - 2021.04.23 | tagMT 연구
-2020.09.22 - 2020.12.31 | 인공지능(AI) 학습용 데이터 구축 사업 ‘영어번역말뭉치 AI 데이터’ 구축
-2020.09.17 - 2021.04.24 | NER 리서치 및 데이터 구축
-2020.06.30 - 2020.08.26 | TD 관리 점검 및 구축
-2020.06.03 - 2020.06.26 | 병렬 말뭉치 정제 및 검수 알고리즘 작성
-2020.05.26 - 2020.06.05 | 병렬 말뭉치 크롤러 개발
+2023.01.11 - 2023.05.04 | 멀티모달 기반 웹툰 전용 번역기 연구 및 웹툰 병렬 데이터<br><span class="tag">구어체</span> <span class="tag">Multimodal</span> <span class="tag">NMT</span> <span class="tag">OCR</span>
+2022.08.08 - 2022.12.21 | TwiQE: 한영/영한 번역 병렬 말뭉치 품질 예측 모델 구축 및 적용 (우수 논문 수상)<br><span class="tag">QE</span> <span class="tag">DA_score</span> <span class="tag">probing_task</span> <span class="tag">ML</span>
+2022.04.27 - 2022.05.18 | 용어 추출기 개발<br><span class="tag">Terminology</span>
+2022.02.10 - 2022.05.23 | 인공지능(AI) 학습용 데이터 구축 사업 ‘한영 구어체 및 기술과학 번역 말뭉치’구축 및 ‘방송 및 전문분야 다국어 번역 말뭉치’ 구축<br><span class="tag">NMT</span> <span class="tag">data</span>
+2021.12.29 - 2022.01.17 | 텍스트 문장 비식별화 모델 개발<br><span class="tag">NER</span> <span class="tag">비식별화</span>
+2021.07.13 - 2022.02.07 | NER 모델 개발 및 데이터 구축<br><span class="tag">NER</span>
+2021.06.15 - 2021.09.27 | TTA 글로벌 사실표준화기구 정보 제공 시스템 구축 용역<br><span class="tag">DP</span> <span class="tag">NER</span>
+2020.11.05 - 2021.04.23 | tagMT 연구<br><span class="tag">NMT</span>
+2020.09.22 - 2020.12.31 | 인공지능(AI) 학습용 데이터 구축 사업 ‘영어번역말뭉치 AI 데이터’ 구축<br><span class="tag">NMT</span> <span class="tag">data</span>
+2020.09.17 - 2021.04.24 | NER 리서치 및 데이터 구축<br><span class="tag">NER</span> <span class="tag">data</span>
+2020.06.30 - 2020.08.26 | TD 관리 점검 및 구축<br><span class="tag">TD</span> <span class="tag">crawler</span> <span class="tag">data</span>
+2020.06.03 - 2020.06.26 | 병렬 말뭉치 정제 및 검수 알고리즘 작성<br><span class="tag">corpus</span> <span class="tag">data</span>
+2020.05.26 - 2020.06.05 | 병렬 말뭉치 크롤러 개발<br><span class="tag">corpus</span> <span class="tag">crawler</span> <span class="tag">data</span>
 
   
 
@@ -57,7 +57,7 @@ Date|Project
 ## 🌿 Portfolio
 <hr class='section'>
 ### 멀티모달 기반 웹툰 전용 번역기 연구 및 웹툰 병렬 데이터<a class="material-symbols-outlined outlink" target="_blank" href="https://news.mt.co.kr/mtview.php?no=2023030616452721288">call_made</a> 
-<p class="project_date">2023.01.11 - 2023.04.30</p>
+<p class="project_date">2023.01.11 - 2023.05.31</p>
 <span class="tag">구어체</span>
 <span class="tag">Multimodal</span>
 <span class="tag">NMT</span>
@@ -73,7 +73,7 @@ Role | 연구 전반 리드, 데이터 구축 시 개발과 NLP가 필요한 부
 * **Results & Accomplishments**
    - 해외적으로도 연구가 미비한 웹툰 영역에서의 멀티모달 모델 연구 진행
    - 휴먼 라벨링이 필요한 데이터 구축이 늦어지자 빠른 판단으로 수도 데이터(pseudo-data) 구축
-   - 수도 데이터를 학습시킨 멀티모달 모델로도 text-only의 구글 번역기보다 BLEU 점수가 높게 나옴.
+   - 개발한 모델로 text-only의 구글 번역기보다 BLEU 점수가 높게 나옴.
 
 * **Process**
 1. 연구 설계 : 태스크의 성격을 정의하고 협의. 연구의 진행 단계 구성 및 모델의 인풋 아웃풋 정의
@@ -219,7 +219,7 @@ Role | 모델 훈련
 
 ---
 
-### NER 데이터 구축 및 모델 개발
+### NER 모델 개발 및 데이터 구축
 <p class="project_date">2021.07.13 - 2022.02.07</p>
 <span class="tag">NER</span>
 
