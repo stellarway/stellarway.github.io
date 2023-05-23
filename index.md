@@ -131,7 +131,7 @@ Date|Project
 <br>
 <br>
 
-## 🏆 Awards and Honors
+## 🏅 Awards and Honors
 <hr class='section'>
 <span class="date-info">2022.12.21</span>  
 **2022 AI 데이터 품질 개선 오픈랩**<a class="material-symbols-outlined outlink" target="_blank" href="https://www.datanet.co.kr/news/articleView.html?idxno=179709">call_made</a>   

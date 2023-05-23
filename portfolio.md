@@ -94,7 +94,7 @@ Role | 연구 전반 리드, 데이터 구축 시 개발과 NLP가 필요한 부
 <span class="tag">probing_task</span>
 <span class="tag">ML</span>
 
-Skills | Python, PyTorch, Scikit-learn
+Skills | Python, Huggingface, Scikit-learn
 Summary | 적은 수의 데이터로도 번역 품질 평가가 가능한 실무적으로 경제적인 기계번역 평가 모델을 개발
 Role | 연구 리드 및 논문 작성
 
@@ -132,7 +132,7 @@ Role | 연구 리드 및 논문 작성
   \: 상위 8개 팀만 참가 가능한 Oral 세션에 참가해서 발표, 최종적으로 상위 3개 팀에 선정됨
 1. 학회에 초청 논문 제출 및 관련 특허 출원  
   \: 정보과학회 학회의 논문 규정에 맞게 편집 후 제출 (심사 대기 중)  
-  \: "번역 품질 평가 장치 및 방법" 특허 출원 (출원번호: 1020220178652)
+  \: "번역 품질 평가 장치 및 방법" 특허 출원 (출원번호: 10-2022-0178652)
 
 
 ---
@@ -161,7 +161,7 @@ Role | 주요 알고리즘 개발 및 적용
 
 ---
 
-### 인공지능(AI) 학습용 데이터 구축 사업 ‘한영 구어체 및 기술과학 번역 말뭉치’구축 및 ‘방송 및 전문분야 다국어 번역 말뭉치’ 구축<a class="material-symbols-outlined outlink" target="_blank" href="https://www.datanet.co.kr/news/articleView.html?idxno=179709">call_made</a> 
+### 인공지능(AI) 학습용 데이터 구축 사업 ‘한영 구어체 및 기술과학 번역 말뭉치’구축 및 ‘방송 및 전문분야 다국어 번역 말뭉치’ 구축<a class="material-symbols-outlined outlink" target="_blank" href="https://www.aitimes.kr/news/articleView.html?idxno=22003">call_made</a> 
 <p class="project_date">2022.02.10 - 2022.05.23</p>
 <span class="tag">NMT</span>
 <span class="tag">data</span>
@@ -198,7 +198,7 @@ Role | 데이터 유효성 검증을 위한 모델 훈련
 
 ---
 
-### 텍스트 문장 비식별화 모델 개발<a class="material-symbols-outlined outlink" target="_blank" href="https://www.datanet.co.kr/news/articleView.html?idxno=170584">call_made</a> 
+### 텍스트 문장 비식별화 모델 개발<a class="material-symbols-outlined outlink" target="_blank" href="https://www.epnc.co.kr/news/articleView.html?idxno=220996">call_made</a> 
 <p class="project_date">2021.12.29 - 2022.01.17</p>
 <span class="tag">NER</span>
 <span class="tag">비식별화</span>
