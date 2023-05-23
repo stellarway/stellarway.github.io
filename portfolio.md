@@ -289,7 +289,7 @@ Role | 인공지능 기계번역기 모델링 연구원
 <span class="tag">data</span>
 
 Skills | Python, Pytorch, Regex
-Summary | 문서 번역 시 일어나는 기계 번역 결과의 왜곡을 근원적으로 해결하기 위한 연구 수행
+Summary | pdf 파일이나 docx 파일에서 추출한 텍스트 정제
 Role | 원천 데이터 정제
 
 ---
