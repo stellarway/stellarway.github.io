@@ -86,7 +86,7 @@ For your convenience, you can also access the **Korean version** of this section
 
 Date|Project
 ----|-------
-2023.01.11 - 2023.05.04 | Multimodal-Based K-Webtoon Translation System and Parallel Data<br><span class="subtitle">멀티모달 기반 웹툰 전용 번역기 연구 및 웹툰 병렬 데이터</span>
+2023.01.11 - 2023.05.31 | Multimodal-Based K-Webtoon Translation System and Parallel Data<br><span class="subtitle">멀티모달 기반 웹툰 전용 번역기 연구 및 웹툰 병렬 데이터</span>
 2022.08.08 - 2022.12.21 | TwiQE: Building and Applying QE Models for KO-EN/EN-KO Parallell Corpus<br><span class="subtitle">TwiQE: 한영/영한 번역 병렬 말뭉치 품질 예측 모델 구축 및 적용</span>
 2022.04.27 - 2022.05.18 | Development of a Terminology Extraction System<br><span class="subtitle">용어 추출기 개발</span>
 2022.02.10 - 2022.05.23 |AI Data Construction Project ‘Korean-English Colloquial and Technical Science Translation Corpus’ and  ‘Broadcasting and Specialized Multilingual Translation Corpus’<br><span class="subtitle">인공지능(AI) 학습용 데이터 구축 사업 ‘한영 구어체 및 기술과학 번역 말뭉치’구축 및 ‘방송 및 전문분야 다국어 번역 말뭉치’ 구축</span>
@@ -137,7 +137,7 @@ Date|Project
 **2022 AI 데이터 품질 개선 오픈랩**<a class="material-symbols-outlined outlink" target="_blank" href="https://www.datanet.co.kr/news/articleView.html?idxno=179709">call_made</a>   
 - 주최주관 : 과학기술정보통신부/ 한국지능정보사회진흥원(NIA)  
 - 입상내역 : 우수논문(상위 3개팀 내)  
-- 상세내용 : 번역문 품질 평가(QE) DA 점수 예측 모델의 새로운 학습 방식을 제안하고, 한-영/영-한 벙렬 말뭉치 총 4,185,507문장 쌍에 대해 분석을 실시하여 전반적으로 품질이 좋지 않은 데이터셋을 찾아냄. 정보과학회의 초청을 받아 논문을 제출한 상태이며, 관련 특허를 출원한 상태.
+- 상세내용 : 번역문 품질 평가(QE) DA 점수 예측 모델을 제안하고, 한-영/영-한 벙렬 말뭉치 총 4,185,507문장 쌍에 대해 분석을 실시하여 전반적으로 품질이 좋지 않은 데이터셋을 찾아냄. 정보과학회의 초청을 받아 논문을 제출한 상태이며, 관련 특허를 출원한 상태.
 
 <br>
 <br>
@@ -182,7 +182,7 @@ Language|Reading|Writing|Conversation
 **빅데이터분석기사**<a class="material-symbols-outlined outlink" target="_blank" href="https://www.dataq.or.kr/www/sub/a_07.do">call_made</a> 
 - 발급기관 : 한국데이터산업진흥원
 - 자격내용 : 국가기술자격
-- 증명내용 : 빅데이터 이해를 기반으로 빅데이터 분석 기획, 빅데이터 수집,저장, 처리 및 빅데이터 분석과 시각화 수행 능력을 증명
+- 증명내용 : 빅데이터 이해를 기반으로 빅데이터 분석 기획, 빅데이터 수집, 저장, 처리 및 빅데이터 분석과 시각화 수행 능력을 증명
 
 ---
 
@@ -198,7 +198,7 @@ Language|Reading|Writing|Conversation
 **SQL 개발자**<a class="material-symbols-outlined outlink" target="_blank" href="https://www.dataq.or.kr/www/sub/a_06.do">call_made</a> 
 - 발급기관 : 한국데이터산업진흥원
 - 자격내용 : 국가공인자격
-- 증명내용 : 데이터베이스와 데이터 모델링에 대한 지식을 바탕으로 s/w 개발 시 데이터를 조작하고 추출하는데 있어 정확하고 최적의 성능을 발휘하는 SQL을 작성할 수 있음을 증명
+- 증명내용 : 데이터베이스와 데이터 모델링에 대한 지식을 바탕으로 소프트웨어 개발 시 데이터를 조작하고 추출하는 데 있어 정확하고 최적의 성능을 발휘하는 SQL을 작성할 수 있음을 증명
 
 <br>
 <br>
@@ -238,7 +238,7 @@ Language|Reading|Writing|Conversation
 <span class="date-info">2021.05.29 - 2021.07.10</span><br>
 **혁신성장 청년인재 집중양성 | 인공지능 자연어처리[NLP]기반 기업 데이터 분석 과정 특강**<a class="material-symbols-outlined outlink" target="_blank" href="https://www.multicampus.com/em/enrolment/courseDetai?p_menu=NzUjU1VC&p_gubun=Qw==&corsCd=FA006N">call_made</a><span class="subtitle">(총 3시간/2회차)</span>
 <br><br>
-*포트폴리오 작성법, Transformer 개론 및 기계번역 모델링 실습*
+*포트폴리오 작성법과 Transformer 개론*
 
 사업명 | 혁신성장 청년인재 집중양성 
 과정명 | 인공지능 자연어처리[NLP]기반 기업 데이터 분석

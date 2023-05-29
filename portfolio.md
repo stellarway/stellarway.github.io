@@ -32,7 +32,7 @@ For further details, please proceed to the below section<span class="subtitle">(
 
 Date|Project
 ----|-------
-2023.01.11 - 2023.05.04 | 멀티모달 기반 웹툰 전용 번역기 연구 및 웹툰 병렬 데이터<br><span class="tag">구어체</span> <span class="tag">Multimodal</span> <span class="tag">NMT</span> <span class="tag">OCR</span>
+2023.01.11 - 2023.05.31 | 멀티모달 기반 웹툰 전용 번역기 연구 및 웹툰 병렬 데이터<br><span class="tag">구어체</span> <span class="tag">Multimodal</span> <span class="tag">NMT</span> <span class="tag">OCR</span>
 2022.08.08 - 2022.12.21 | TwiQE: 한영/영한 번역 병렬 말뭉치 품질 예측 모델 구축 및 적용 (우수 논문 수상)<br><span class="tag">QE</span> <span class="tag">DA_score</span> <span class="tag">probing_task</span> <span class="tag">ML</span>
 2022.04.27 - 2022.05.18 | 용어 추출기 개발<br><span class="tag">Terminology</span>
 2022.02.10 - 2022.05.23 | 인공지능(AI) 학습용 데이터 구축 사업 ‘한영 구어체 및 기술과학 번역 말뭉치’구축 및 ‘방송 및 전문분야 다국어 번역 말뭉치’ 구축<br><span class="tag">NMT</span> <span class="tag">data</span>
